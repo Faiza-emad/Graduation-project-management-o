@@ -1,0 +1,216 @@
+﻿@model Project2023.Models.ProjectDissDate
+@{
+    ViewData["Title"] = "تحديد موعد مناقشة مشروع تخرج";
+    Layout = "~/Views/Shared/_DoctorLayout.cshtml";
+}
+
+
+@*Project title*@
+<form method="post" class="form-horizontal form-label-left">
+
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    عنوان المشروع :
+
+                </h2>
+
+                <input type="hidden" name="op" value="@ViewBag.op" />
+                <input type="hidden" name="pid" value="@ViewBag.proID" />
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">
+                        عنوان المشروع  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input value="@ViewBag.ProjectTitle" class="form-control" rows="3" readonly>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    @*Project workers*@
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    المنفذون :
+
+                </h2>
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form asp-action="ApprovalForm" class="form-horizontal form-label-left"> *@
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الاول </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input type="text" value="@ViewBag.Student1Name" class="form-control" readonly>
+                    </div>
+                </div>
+
+              
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الثاني </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input type="text" class="form-control" value="@ViewBag.Student2Name" readonly>
+                    </div>
+                </div>
+              
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الثالث </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input type="text" value="@ViewBag.Student3Name" class="form-control" readonly>
+                    </div>
+                </div>
+               
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الرابع </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input type="text" value="@ViewBag.Student4Name" class="form-control" readonly>
+                    </div>
+                </div>
+               
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">اسم المشرف </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input type="text" class="form-control" value="@ViewBag.DoctorName" readonly>
+
+
+
+                    </div>
+                </div>
+
+
+
+
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+    @*Project Monitors*@
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    اعضاء لجنة المناقشة :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="Sup1" class="control-label col-md-3 col-sm-3 col-xs-12">عضو اللجنة الاول </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <select asp-for="Sup1" class="form-control" asp-items="@ViewBag.Sup1"></select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Sup2" class="control-label col-md-3 col-sm-3 col-xs-12">عضواللجنة الثاني </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <select asp-for="Sup2" class="form-control" asp-items="@ViewBag.Sup2"></select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Sup3" class="control-label col-md-3 col-sm-3 col-xs-12">عضو اللجنة الثالث </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <select asp-for="Sup3" class="form-control" asp-items="@ViewBag.Sup3"></select>
+                    </div>
+                </div>
+
+
+
+
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+    @*project discussion date*@
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    موعد المناقشة :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="GradDay" class="control-label col-md-3 col-sm-3 col-xs-12">اليوم </label>
+                    <div class="col-md-3 col-sm-9 col-xs-12">
+                        <input asp-for="GradDay" type="text" class="form-control"  placeholder="اليوم  ">
+                    </div>
+
+                 @*    <div>
+                        <h1>
+                            التاريخ والساعة
+                        </h1>
+                        <p>
+                            @Model.GradDate
+                        </p>
+                    </div> *@
+                    <label asp-for="GradDate" class="control-label col-md-2 col-sm-4 col-xs-12" for="eventDate">التاريخ والساعة </label>
+                    <div class="col-md-4 col-sm-9 col-xs-12">
+                        <input asp-for="GradDate"  class="form-control">
+                    </div>
+                </div>
+                @* <div class="form-group">
+                    <label asp-for="GradDay" class="control-label col-md-3 col-sm-3 col-xs-12">اليوم </label>
+                    <div class="col-md-3 col-sm-9 col-xs-12">
+                        <input asp-for="GradDay" type="text" class="form-control" placeholder="اليوم  ">
+                    </div>
+                    <label asp-for="GradDate" class="control-label col-md-2 col-sm-4 col-xs-12" for="eventDate">التاريخ والساعة </label>
+                    <div class="col-md-4 col-sm-9 col-xs-12">
+                        <input asp-for="GradDate" type="datetime-local" id="eventDateTime" name="eventDateTime" class="form-control" placeholder="التاريخ والساعة  ">
+                    </div>
+                </div> *@
+                <div class="form-group">
+                    <label asp-for="GradPlace" class="control-label col-md-3 col-sm-3 col-xs-12"> القاعة</label>
+                    <div class="col-md-3 col-sm-9 col-xs-12">
+                        <input asp-for="GradPlace" type="text" class="form-control" placeholder="القاعة">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">طبيعة الجلسة</label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" checked="" value="option1" id="optionsRadios1" name="optionsRadios">  مغلقة
+                            </label>
+                            <div style="display: inline-block; width: 10px;"></div> <!-- Add space between radio buttons -->
+                            <label>
+                                <input type="radio" value="option2" id="optionsRadios2" name="optionsRadios">مفتوحة
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <div class="ln_solid"></div>
+                <div class="form-group">
+                    <div class="col-md-9 col-sm-9 col-xs-12 col-md-offset-3">
+                        <button type="submit" class="btn btn-primary">الغاء</button>
+                        <input asp-controller="Doctor" asp-action="DissDateForm" type="submit" value="حفظ" class="btn btn-success" />
+                    </div>
+                </div>
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+</form>

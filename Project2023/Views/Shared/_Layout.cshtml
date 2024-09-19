@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
+
+    <title>Training Studio - Free CSS Template</title>
+    <!--
+
+    TemplateMo 548 Training Studio
+
+    https://templatemo.com/tm-548-training-studio
+
+    -->
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" type="text/css" href="~/assets/css/bootstrap.min.css">
+
+    <link rel="stylesheet" type="text/css" href="~/assets/css/font-awesome.css">
+
+    <link rel="stylesheet" href="~/assets/css/templatemo-training-studio.css">
+
+</head>
+<body style="direction:rtl" >
+    <div style="background-color:#34495e">
+        <header class="header-area header-sticky">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <nav class="main-nav">
+                            <!-- ***** Logo Start ***** -->
+                            <a href="index.html" class="logo">نظام إدارة<em style="color:white"> مشاريع التخرج</em></a>
+                            <!-- ***** Logo End ***** -->
+                            <!-- ***** Menu Start ***** -->
+                            <ul class="nav">
+                             @*   <a href="#top" style="color:white;margin-left:70px" >الصفحة الرئيسية</a>*@
+                                <a style="color:white;font-size:large;border:solid;padding:10px;border-radius:revert"  asp-controller="DefaultUser" asp-action="Login">تسجيل الدخول</a>
+                                 
+                            </ul>
+                            <a class='menu-trigger'>
+                                <span>Menu</span>
+                            </a>
+                            <!-- ***** Menu End ***** -->
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </header>
+    </div>
+    <div class="main-banner" id="top">
+        <video autoplay muted loop id="bg-video">
+            <source src="~/assets/images/Grad.mp4" type="video/mp4" />
+        </video>
+
+        <div class="video-overlay header-text">
+            <div class="caption">
+                <h2 style="margin-bottom:10px">مرحبا بكم في نظام إدارة مشاريع التخرج!</h2>
+                <h6 style="color:white">نظام يربط الطلاب بالدكاترة لمتابعة وتقييم مشاريع التخرج بكفاءة </h6>
+                
+            </div>
+        </div>
+    </div>
+    <hr />
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <hr />
+    <footer class="border-top footer text-muted" style="background-color:#34495e">
+        <div class="container" >
+            &copy; 2024 - ادارة مشاريع التخرج - <a asp-area="" ></a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\wwwroot\\build\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\wwwroot\\build\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\views\\doctor\\projectindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\views\\doctor\\projectindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\views\\doctor\\projectcommdecision.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\views\\doctor\\projectcommdecision.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\views\\doctor\\projectassessmentform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\views\\doctor\\projectassessmentform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\views\\doctor\\dissdateform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\views\\doctor\\dissdateform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\viewmodels\\projectcommiteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\viewmodels\\projectcommiteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\viewmodels\\projectfinalassessviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\viewmodels\\projectfinalassessviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\views\\doctor\\projectweeksform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\views\\doctor\\projectweeksform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\models\\projectdissdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\models\\projectdissdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\views\\doctor\\projectweeksformdoc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\views\\doctor\\projectweeksformdoc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\models\\projectweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\models\\projectweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|d:\\graduationproject\\project2023_5-26\\project2023\\project2023\\migrations\\20240523175420_step3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811054E9-2BDD-4948-A235-C5F0C903ADE3}|Project2023\\Project2023.csproj|solutionrelative:project2023\\migrations\\20240523175420_step3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Project2023\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Project2023\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAAHMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-27T18:29:32.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "custom.css",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\css\\custom.css",
+              "RelativeDocumentMoniker": "Project2023\\wwwroot\\build\\css\\custom.css",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\css\\custom.css",
+              "RelativeToolTip": "Project2023\\wwwroot\\build\\css\\custom.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAADizQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-27T18:27:46.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project2023\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project2023\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T18:18:52.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Project2023\\Models\\Project.cs",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Models\\Project.cs",
+              "RelativeToolTip": "Project2023\\Models\\Project.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAABkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:54:29.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project2023\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project2023\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:51:05.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project2023\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project2023\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T17:39:23.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjectFinalAssessViewModel.cs",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\ViewModels\\ProjectFinalAssessViewModel.cs",
+              "RelativeDocumentMoniker": "Project2023\\ViewModels\\ProjectFinalAssessViewModel.cs",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\ViewModels\\ProjectFinalAssessViewModel.cs",
+              "RelativeToolTip": "Project2023\\ViewModels\\ProjectFinalAssessViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:30:13.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProjectCommiteViewModel.cs",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\ViewModels\\ProjectCommiteViewModel.cs",
+              "RelativeDocumentMoniker": "Project2023\\ViewModels\\ProjectCommiteViewModel.cs",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\ViewModels\\ProjectCommiteViewModel.cs",
+              "RelativeToolTip": "Project2023\\ViewModels\\ProjectCommiteViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:28:22.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectIndex.cshtml",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Views\\Doctor\\ProjectIndex.cshtml",
+              "RelativeDocumentMoniker": "Project2023\\Views\\Doctor\\ProjectIndex.cshtml",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Views\\Doctor\\ProjectIndex.cshtml",
+              "RelativeToolTip": "Project2023\\Views\\Doctor\\ProjectIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T10:10:24.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Project2023\\Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Project2023\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:46:01.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectAssessmentForm.cshtml",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Views\\Doctor\\ProjectAssessmentForm.cshtml",
+              "RelativeDocumentMoniker": "Project2023\\Views\\Doctor\\ProjectAssessmentForm.cshtml",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Views\\Doctor\\ProjectAssessmentForm.cshtml",
+              "RelativeToolTip": "Project2023\\Views\\Doctor\\ProjectAssessmentForm.cshtml",
+              "ViewState": "AQIAAEwBAAAAAAAAAAAAAFwBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T17:04:33.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectCommDecision.cshtml",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Views\\Doctor\\ProjectCommDecision.cshtml",
+              "RelativeDocumentMoniker": "Project2023\\Views\\Doctor\\ProjectCommDecision.cshtml",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Views\\Doctor\\ProjectCommDecision.cshtml",
+              "RelativeToolTip": "Project2023\\Views\\Doctor\\ProjectCommDecision.cshtml",
+              "ViewState": "AQIAANABAAAAAAAAAAAAANABAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T08:42:19.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Program.cs",
+              "RelativeDocumentMoniker": "Project2023\\Program.cs",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Program.cs",
+              "RelativeToolTip": "Project2023\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:05:35.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DissDateForm.cshtml",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Views\\Doctor\\DissDateForm.cshtml",
+              "RelativeDocumentMoniker": "Project2023\\Views\\Doctor\\DissDateForm.cshtml",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Views\\Doctor\\DissDateForm.cshtml",
+              "RelativeToolTip": "Project2023\\Views\\Doctor\\DissDateForm.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T18:09:44.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectWeeksForm.cshtml",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Views\\Doctor\\ProjectWeeksForm.cshtml",
+              "RelativeDocumentMoniker": "Project2023\\Views\\Doctor\\ProjectWeeksForm.cshtml",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Views\\Doctor\\ProjectWeeksForm.cshtml",
+              "RelativeToolTip": "Project2023\\Views\\Doctor\\ProjectWeeksForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T16:22:06.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240523175420_step3.cs",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Migrations\\20240523175420_step3.cs",
+              "RelativeDocumentMoniker": "Project2023\\Migrations\\20240523175420_step3.cs",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Migrations\\20240523175420_step3.cs",
+              "RelativeToolTip": "Project2023\\Migrations\\20240523175420_step3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:54:21.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "Project2023\\Models\\Rating.cs",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Models\\Rating.cs",
+              "RelativeToolTip": "Project2023\\Models\\Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:16:10.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Project2023\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Project2023\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwCYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:16:51.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectWeeksFormDoc.cshtml",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Views\\Doctor\\ProjectWeeksFormDoc.cshtml",
+              "RelativeDocumentMoniker": "Project2023\\Views\\Doctor\\ProjectWeeksFormDoc.cshtml",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Views\\Doctor\\ProjectWeeksFormDoc.cshtml",
+              "RelativeToolTip": "Project2023\\Views\\Doctor\\ProjectWeeksFormDoc.cshtml",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAI0AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:27:16.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProjectDissDate.cs",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Models\\ProjectDissDate.cs",
+              "RelativeDocumentMoniker": "Project2023\\Models\\ProjectDissDate.cs",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Models\\ProjectDissDate.cs",
+              "RelativeToolTip": "Project2023\\Models\\ProjectDissDate.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA8wBgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:28:15.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProjectWeek.cs",
+              "DocumentMoniker": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Models\\ProjectWeek.cs",
+              "RelativeDocumentMoniker": "Project2023\\Models\\ProjectWeek.cs",
+              "ToolTip": "D:\\GraduationProject\\Project2023_5-26\\Project2023\\Project2023\\Models\\ProjectWeek.cs",
+              "RelativeToolTip": "Project2023\\Models\\ProjectWeek.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:14:24.214Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

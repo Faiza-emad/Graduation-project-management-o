@@ -1,0 +1,33 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@{
+    ViewData["Title"] = "تحميل الطلاب";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@if (!string.IsNullOrEmpty(ViewBag.Message) && ViewBag.Message == "success")
+{
+    <div class="alert alert-success" role="alert">
+        تم اضافة الطلبة بنجاح
+    </div>
+}
+else if (!string.IsNullOrEmpty(ViewBag.Message) && ViewBag.Message == "empty")
+{
+    <div class="alert alert-warning" role="alert">
+        الملف فارغ
+    </div>
+}
+
+<form method="post" enctype="multipart/form-data">
+    <div class="row">
+        <label>حمل ملف اكسيل</label>
+        <input type="file" name="file" class="form-control" style="width:340px"/>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-3">
+            <input type="submit" asp-action="UploadStudents" class="btn btn-primary" value="تحميل الملف" />
+        </div>
+    </div>
+</form>

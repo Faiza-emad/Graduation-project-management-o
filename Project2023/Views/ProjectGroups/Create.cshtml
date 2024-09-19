@@ -1,0 +1,71 @@
+﻿@model Project2023.Models.ProjectGroup
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>ProjectGroup</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ProjectId" class="control-label"></label>
+                <select asp-for="ProjectId" class ="form-control" asp-items="ViewBag.ProjectId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="StudentId" class="control-label"></label>
+                <select asp-for="StudentId" class ="form-control" asp-items="ViewBag.StudentId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="PQ1" class="control-label"></label>
+                <input asp-for="PQ1" class="form-control" />
+                <span asp-validation-for="PQ1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PQ2" class="control-label"></label>
+                <input asp-for="PQ2" class="form-control" />
+                <span asp-validation-for="PQ2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PQ3" class="control-label"></label>
+                <input asp-for="PQ3" class="form-control" />
+                <span asp-validation-for="PQ3" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PQ4" class="control-label"></label>
+                <input asp-for="PQ4" class="form-control" />
+                <span asp-validation-for="PQ4" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PQ5" class="control-label"></label>
+                <input asp-for="PQ5" class="form-control" />
+                <span asp-validation-for="PQ5" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DoctorGrade" class="control-label"></label>
+                <input asp-for="DoctorGrade" class="form-control" />
+                <span asp-validation-for="DoctorGrade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="committeGrade" class="control-label"></label>
+                <input asp-for="committeGrade" class="form-control" />
+                <span asp-validation-for="committeGrade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

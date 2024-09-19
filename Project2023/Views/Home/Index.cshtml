@@ -1,0 +1,67 @@
+﻿@model IEnumerable<Project2023.Models.Project>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<main>
+
+    
+
+
+    <section class="section" id="trainers">
+       
+            <div class="row">
+                                @foreach (var item in Model)
+                {
+                <div class="col-lg-4">
+               
+                    <div class="trainer-item">
+               
+                        <div class="image-thumb">
+                                <img src="~/images/@item.PImage" alt="">
+                        </div>
+                        <div class="down-content">
+                                <span>@item.ProjectTitle</span>
+                                <h4>@item.ProjectCourse.CourseId - @item.ProjectCourse.CourseName</h4>
+       
+                                <ul>
+                                    <li> @item.ProjectStudent1.DoctorName</li>
+                                    <li> @item.ProjectStudent2.DoctorName</li>
+                                    @if (item.ProjectStudent3 != null)
+                                    {
+                                        <li> @item.ProjectStudent3.DoctorName</li>
+                                    }
+
+                                    @if (item.ProjectStudent4 != null)
+                                    {
+                                        <li> @item.ProjectStudent4.DoctorName</li>
+                                    }
+                                </ul>
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div class="btn-group">
+                                        <a asp-action="ApprovalFormView" asp-controller="Student" asp-route-id="@item.Id" class="btn btn-sm btn-outline-secondary">عرض التفاصيل</a>
+
+                                    </div>
+                                 </div>
+                        </div>
+
+                       
+                    </div>
+                   
+
+
+
+
+
+
+
+
+                </div>
+             }
+            </div>
+        </div>
+    </section>
+
+    
+</main>

@@ -1,0 +1,225 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Project2023
+build_property.RootNamespace = Project2023
+build_property.ProjectDir = C:\Users\NTC\Downloads\Project2023_5-26\Project2023\Project2023\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\NTC\Downloads\Project2023_5-26\Project2023\Project2023
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/ApplicationUsers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25Vc2Vyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/ApplicationUsers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25Vc2Vyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/ApplicationUsers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25Vc2Vyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/ApplicationUsers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25Vc2Vyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/ApplicationUsers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25Vc2Vyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/ApplicationUsers/UploadStudents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25Vc2Vyc1xVcGxvYWRTdHVkZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Courses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Courses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Courses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Courses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/DefaultUser/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFVzZXJcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/DefaultUser/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFVzZXJcRm9yZ290UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/DefaultUser/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFVzZXJcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/DefaultUser/SendEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFVzZXJcU2VuZEVtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Depts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Depts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Depts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Depts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Depts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Doctor/DissDateForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXERpc3NEYXRlRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Doctor/DissDateFormStd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXERpc3NEYXRlRm9ybVN0ZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Doctor/ProjectAssessmentForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXFByb2plY3RBc3Nlc3NtZW50Rm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Doctor/ProjectAssessmentFormStd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXFByb2plY3RBc3Nlc3NtZW50Rm9ybVN0ZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Doctor/ProjectCommDecision.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXFByb2plY3RDb21tRGVjaXNpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Doctor/ProjectCommDecisionStd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXFByb2plY3RDb21tRGVjaXNpb25TdGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Doctor/ProjectIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXFByb2plY3RJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Doctor/ProjectIndexStd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXFByb2plY3RJbmRleFN0ZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Doctor/ProjectWeeksForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXFByb2plY3RXZWVrc0Zvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Doctor/ProjectWeeksFormDoc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXFByb2plY3RXZWVrc0Zvcm1Eb2MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Doctor/ProjectWeeksIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXFByb2plY3RXZWVrc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/ProjectGroups/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdEdyb3Vwc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/ProjectGroups/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdEdyb3Vwc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/ProjectGroups/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdEdyb3Vwc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/ProjectGroups/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdEdyb3Vwc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/ProjectGroups/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdEdyb3Vwc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Shared/_DoctorLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Eb2N0b3JMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Shared/_StudentLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdHVkZW50TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Shared/_ViewLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WaWV3TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Student/ApprovalForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxBcHByb3ZhbEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Student/ApprovalFormDoc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxBcHByb3ZhbEZvcm1Eb2MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Student/ApprovalFormView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxBcHByb3ZhbEZvcm1WaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Student/EditApprovalForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0QXBwcm92YWxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NTC/Downloads/Project2023_5-26/Project2023/Project2023/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-n8a40br7e4

@@ -1,0 +1,470 @@
+﻿@model Project2023.ViewModels.ProjectCommiteViewModel
+@{
+    ViewData["Title"] = "صفحة تقييم اللجنة";
+    Layout = "~/Views/Shared/_DoctorLayout.cshtml";
+    ProjectGroup? group1 = Model.projectGroup[0];
+    ProjectGroup? group2 = Model.projectGroup[1];
+
+    ProjectGroup? group3 = null;
+    ProjectGroup? group4 = null;
+}
+
+
+
+@{
+    if (Model.projectGroup.Count > 2)
+        group3 = Model.projectGroup[2];
+
+    if (Model.projectGroup.Count > 3)
+        group4 = Model.projectGroup[3];
+}
+<form asp-action="ProjectCommDecisionStd" class="form-horizontal form-label-left">
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    تاريخ التقييم :
+
+                </h2>
+
+                <input type="hidden" name="op" value="@ViewBag.op" />
+                <input type="hidden" name="pid" value="@ViewBag.proID" />
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">
+                        تاريخ التقييم  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input value="@Model.projectDissDate.GradDate" class="form-control" readonly>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">
+                        الفصل الدراسي  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input value="@ViewBag.sem" class="form-control" readonly>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">
+                        العام الدراسي  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input value="@Model.project.StudyYear" class="form-control" readonly>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    @*Project title*@
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    عنوان المشروع :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">
+                        عنوان المشروع  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input value="@Model.project.ProjectTitle" class="form-control" readonly>
+                    </div>
+                </div>
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+    @*Project workers*@
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    المنفذون :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form asp-action="ApprovalForm" class="form-horizontal form-label-left"> *@
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الاول </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input type="text" value="@ViewBag.Student1Name" class="form-control" readonly>
+                    </div>
+                </div>
+
+
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الثاني </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input type="text" class="form-control" value="@ViewBag.Student2Name" readonly>
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الثالث </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input type="text" value="@ViewBag.Student3Name" class="form-control" readonly>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الرابع </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input type="text" value="@ViewBag.Student4Name" class="form-control" readonly>
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">اسم المشرف </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input type="text" class="form-control" value="@ViewBag.supName1" readonly>
+
+
+
+                    </div>
+                </div>
+
+
+
+
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="col-md-12 col-sm-6 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    توثيق المشروع:
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>البند</th>
+                            <th>العلامة القصوى</th>
+                            <th>العلامة الفعلية</th>
+
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+
+                            <td>	مستوى اللغة المستخدمة في التوثيق</td>
+                            <td><input type="text" class="form-control" value="4" readonly /> </td>
+                            <td><input asp-for="projectCommDecision.Q1" type="text" class="form-control" readonly/></td>
+
+
+                        </tr>
+                        <tr>
+
+                            <td>	مدى مطابقة التوثيق للمواصفات المطلوبة</td>
+                            <td><input type="text" class="form-control" value="4" readonly /></td>
+                            <td><input asp-for="projectCommDecision.Q2" type="text" class="form-control" readonly /></td>
+
+
+                        </tr>
+
+                        <tr>
+
+                            <td>مطابقة التوثيق لما نفذ فعليا على أرض الواقع </td>
+                            <td><input type="text" class="form-control" value="4" readonly /></td>
+                            <td><input asp-for="projectCommDecision.Q3" type="text" class="form-control" readonly /></td>
+
+
+                        </tr>
+                        <tr>
+
+                            <td>	شمولية التوثيق لكافة جوانب الموضوع </td>
+                            <td><input type="text" class="form-control" value="4" readonly /></td>
+                            <td><input asp-for="projectCommDecision.Q4" type="text" class="form-control" readonly /></td>
+
+
+                        </tr>
+                        <tr>
+
+                            <td>	توفر المخططات والرسوم التوضيحية في التوثيق</td>
+                            <td><input type="text" class="form-control" value="4" readonly /></td>
+                            <td><input asp-for="projectCommDecision.Q5" type="text" class="form-control" readonly /></td>
+
+
+                        </tr>
+                        <tr>
+
+                            <td>	توفر المقدمات النظرية للموضوع</td>
+                            <td><input type="text" class="form-control" value="4" readonly /></td>
+                            <td><input asp-for="projectCommDecision.Q6" type="text" class="form-control" readonly /></td>
+
+
+                        </tr>
+                        <tr>
+
+                            <td>		توفر المرفقات المطلوبة من برامج وإنجازات </td>
+                            <td><input type="text" class="form-control" value="3" readonly /></td>
+                            <td><input asp-for="projectCommDecision.Q7" type="text" class="form-control" readonly/></td>
+
+
+                        </tr>
+                        <tr>
+
+                            <td>			أهمية موضوع مشروع التخرج و/أو أثره </td>
+                            <td><input type="text" class="form-control" value="2" readonly /></td>
+                            <td><input asp-for="projectCommDecision.Q8" type="text" class="form-control" readonly /></td>
+
+
+                        </tr>
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    </div>
+
+
+    <div class="col-md-12 col-sm-6 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    أداء منفذي المشروع:
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>البند</th>
+                            <th>العلامة القصوى</th>
+                            <th>العلامة الفعلية</th>
+
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+
+                            <td>		أسلوب العرض أثناء المناقشة</td>
+                            <td><input type="text" class="form-control" value="4" readonly /> </td>
+                            <td><input asp-for="projectCommDecision.S1" type="text" class="form-control" readonly /></td>
+
+
+                        </tr>
+                        <tr>
+
+                            <td>	أداء المنفذون وتفاعلهم أثناء الجلسة</td>
+                            <td><input type="text" class="form-control" value="4" readonly /></td>
+                            <td><input asp-for="projectCommDecision.S2" type="text" class="form-control" readonly /></td>
+
+
+                        </tr>
+
+                        <tr>
+
+                            <td>	دقة الإجابات على أسئلة أعضاء اللجنة </td>
+                            <td><input type="text" class="form-control" value="4" readonly /></td>
+                            <td><input asp-for="projectCommDecision.S3" type="text" class="form-control" readonly /></td>
+
+
+                        </tr>
+                        <tr>
+
+                            <td>	حجم الأخطاء في أداء البرنامج</td>
+                            <td><input type="text" class="form-control" value="4" readonly /></td>
+                            <td><input asp-for="projectCommDecision.S4" type="text" class="form-control" readonly/></td>
+
+
+                        </tr>
+                        <tr>
+
+                            <td>		مطابقة العمل المنفذ للمتطلبات</td>
+                            <td><input type="text" class="form-control" value="5" readonly /></td>
+                            <td><input asp-for="projectCommDecision.S5" type="text" class="form-control" readonly /></td>
+
+
+                        </tr>
+                        <tr>
+
+                            <td>		استيعاب المنفذون لما نفذ من عمل</td>
+                            <td><input type="text" class="form-control" value="4" readonly /></td>
+                            <td><input asp-for="projectCommDecision.S6" type="text" class="form-control" readonly /></td>
+
+
+                        </tr>
+                        <tr>
+
+                            <td>	<h5>المجموع العام لتقييم اللجنة :</h5>	</td>
+                            <td><input type="text" class="form-control" value="50%" readonly /></td>
+                            <td><input type="text" class="form-control" value="@ViewBag.Total" readonly /></td>
+
+
+                        </tr>
+
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="col-md-12 col-sm-6 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    العلامة النهائية للطلبة في مادة "مشروع التخرج"
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>الرقم</th>
+                            <th>اسم الطالب </th>
+                           
+                            <th>العلامة النهائية (100%)</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+
+
+                            <td><input type="text" class="form-control" value="@ViewBag.Student1Name" readonly /></td>
+                           
+                            <td><input type="text" class="form-control" value="@(group1.committeGrade+group1.DoctorGrade)" readonly /></td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">2</th>
+
+
+                            <td><input type="text" class="form-control" value="@ViewBag.Student2Name" readonly /></td>
+                            
+                            <td><input type="text" class="form-control" value="@(group2.committeGrade+group2.DoctorGrade)" readonly /></td>
+
+                        </tr>
+                        @if (group3 != null)
+                        {
+                            <tr>
+                                <th scope="row">3</th>
+
+
+                                <td><input type="text" class="form-control" value="@ViewBag.Student3Name" readonly /></td>
+                               
+                                <td><input type="text" class="form-control" value="@(group3.committeGrade+group3.DoctorGrade)" readonly /></td>
+
+                            </tr>
+
+                        }
+
+
+                        @if (group4 != null)
+                        {
+                            <tr>
+                                <th scope="row">4</th>
+
+
+                                <td><input type="text" class="form-control" value="@ViewBag.Student4Name" readonly /></td>
+                             
+                                <td><input type="text" class="form-control" value="@(group4.committeGrade+group4.DoctorGrade)" readonly /></td>
+
+                            </tr>
+
+                        }
+
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    </div>
+
+
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    أسماء أعضاء اللجنة
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">1-   </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input class="form-control" value="@ViewBag.supName1" placeholder="   " readonly />
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">2-   </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input class="form-control" value="@ViewBag.supName2" placeholder="  " readonly>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">3-   </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input class="form-control" value="@ViewBag.supName3" placeholder="  " readonly>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-9 col-sm-9 col-xs-12 col-md-offset-3">
+            <a asp-controller="Doctor" asp-action="ProjectIndexStd" type="submit" class="btn btn-primary">خروج</a>
+            
+            
+        </div>
+    </div>
+
+</form>

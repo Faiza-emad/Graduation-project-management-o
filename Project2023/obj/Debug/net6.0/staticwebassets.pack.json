@@ -1,0 +1,2709 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Project2023.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Project2023.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\EmailTemplate\\ManageProjectsSystem.html",
+      "PackagePath": "staticwebassets\\EmailTemplate\\ManageProjectsSystem.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\0b5a0a59-642e-4741-a617-a88a93c21073.png",
+      "PackagePath": "staticwebassets\\Images\\0b5a0a59-642e-4741-a617-a88a93c21073.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\1.jpg",
+      "PackagePath": "staticwebassets\\Images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\1d4df026-5924-4765-a5af-e5a51f8c3592.jpeg",
+      "PackagePath": "staticwebassets\\Images\\1d4df026-5924-4765-a5af-e5a51f8c3592.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\25445fce-db50-48d5-87c9-e138d367f5dd.jpeg",
+      "PackagePath": "staticwebassets\\Images\\25445fce-db50-48d5-87c9-e138d367f5dd.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\29d86f56-c1a9-4513-9d8a-0f8fe7d45980.jpeg",
+      "PackagePath": "staticwebassets\\Images\\29d86f56-c1a9-4513-9d8a-0f8fe7d45980.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\2ca91a5a-d8f8-4b1e-9ec2-2c528ae9f108.png",
+      "PackagePath": "staticwebassets\\Images\\2ca91a5a-d8f8-4b1e-9ec2-2c528ae9f108.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\36511a2d-2a6c-4ef6-bead-06397c8a815d.jpeg",
+      "PackagePath": "staticwebassets\\Images\\36511a2d-2a6c-4ef6-bead-06397c8a815d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\37e27b50-6e4a-490c-b487-4f1cbc6b2276.jpeg",
+      "PackagePath": "staticwebassets\\Images\\37e27b50-6e4a-490c-b487-4f1cbc6b2276.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\39be3231-e4ed-463e-9275-950948946b63.png",
+      "PackagePath": "staticwebassets\\Images\\39be3231-e4ed-463e-9275-950948946b63.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\51383a9e-104b-47db-aefc-4e1b4277fab6.png",
+      "PackagePath": "staticwebassets\\Images\\51383a9e-104b-47db-aefc-4e1b4277fab6.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\556d3c30-bd0f-40b9-8f96-35c7a50dbafa.png",
+      "PackagePath": "staticwebassets\\Images\\556d3c30-bd0f-40b9-8f96-35c7a50dbafa.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\6262ec09-237a-4284-ac2e-f68108c76d06.png",
+      "PackagePath": "staticwebassets\\Images\\6262ec09-237a-4284-ac2e-f68108c76d06.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\691d2e23-79fd-4007-8e5c-85efe7b638bf.png",
+      "PackagePath": "staticwebassets\\Images\\691d2e23-79fd-4007-8e5c-85efe7b638bf.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\6e9252a0-bd8e-4a51-981f-073b02283250.png",
+      "PackagePath": "staticwebassets\\Images\\6e9252a0-bd8e-4a51-981f-073b02283250.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\75979406-8b2e-4b59-82a6-1720c4f9c9ef.png",
+      "PackagePath": "staticwebassets\\Images\\75979406-8b2e-4b59-82a6-1720c4f9c9ef.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\784d898a-2c7a-4faf-b921-ddf5ab438059.jpg",
+      "PackagePath": "staticwebassets\\Images\\784d898a-2c7a-4faf-b921-ddf5ab438059.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\80d1e615-fe27-4ce0-a2ea-3898bef68f0c.jpg",
+      "PackagePath": "staticwebassets\\Images\\80d1e615-fe27-4ce0-a2ea-3898bef68f0c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\9937201a-de5b-473f-b7bd-d25f20931b0b.jpg",
+      "PackagePath": "staticwebassets\\Images\\9937201a-de5b-473f-b7bd-d25f20931b0b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\Unknown.png",
+      "PackagePath": "staticwebassets\\Images\\Unknown.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\a55bf62e-0b0e-4257-ac74-da17668871d2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\a55bf62e-0b0e-4257-ac74-da17668871d2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\aaea6448-ec6f-4602-ba9b-2d5bbfa69f2b.png",
+      "PackagePath": "staticwebassets\\Images\\aaea6448-ec6f-4602-ba9b-2d5bbfa69f2b.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\b95c4539-bbb2-411a-9bc4-7a9978b87b00.jpg",
+      "PackagePath": "staticwebassets\\Images\\b95c4539-bbb2-411a-9bc4-7a9978b87b00.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\bf8c9cae-93d7-4f6b-a59c-5f0c4bc29fe9.png",
+      "PackagePath": "staticwebassets\\Images\\bf8c9cae-93d7-4f6b-a59c-5f0c4bc29fe9.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\cf84c650-2b62-45f6-9cc8-a8af85c9394a.png",
+      "PackagePath": "staticwebassets\\Images\\cf84c650-2b62-45f6-9cc8-a8af85c9394a.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\da949c6d-b8bc-4d2c-b4b8-5b55a22c3eb7.png",
+      "PackagePath": "staticwebassets\\Images\\da949c6d-b8bc-4d2c-b4b8-5b55a22c3eb7.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\defaultimage.jpg",
+      "PackagePath": "staticwebassets\\Images\\defaultimage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\e005d926-2088-4191-94a5-19506675d60d.png",
+      "PackagePath": "staticwebassets\\Images\\e005d926-2088-4191-94a5-19506675d60d.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\e766c57c-fefc-40c4-955d-a4e7ed8061da.jpeg",
+      "PackagePath": "staticwebassets\\Images\\e766c57c-fefc-40c4-955d-a4e7ed8061da.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\f4216f2a-809e-4699-90b6-7ee5fa0f4c12.jpg",
+      "PackagePath": "staticwebassets\\Images\\f4216f2a-809e-4699-90b6-7ee5fa0f4c12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\slider.jpg",
+      "PackagePath": "staticwebassets\\Images\\slider.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\slider2.jpg",
+      "PackagePath": "staticwebassets\\Images\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Images\\slider3.png",
+      "PackagePath": "staticwebassets\\Images\\slider3.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\Uploads\\Doctor-List.xlsx",
+      "PackagePath": "staticwebassets\\Uploads\\Doctor-List.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\css\\templatemo-training-studio.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-training-studio.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\images\\Grad.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\Grad.mp4"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\images\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\images\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cta-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\images\\features-first-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\features-first-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\images\\first-trainer.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\first-trainer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\images\\gym-video.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\gym-video.mp4"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\images\\line-dec.png",
+      "PackagePath": "staticwebassets\\assets\\images\\line-dec.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\images\\schedule-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\schedule-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\images\\second-trainer.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\second-trainer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\images\\slide-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\images\\tabs-first-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tabs-first-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\images\\third-trainer.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\third-trainer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\images\\training-image-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\training-image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\images\\training-image-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\training-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\images\\training-image-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\training-image-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\images\\training-image-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\training-image-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\js\\accordions.js",
+      "PackagePath": "staticwebassets\\assets\\js\\accordions.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\js\\imgfix.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imgfix.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\js\\jquery-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-2.1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\js\\mixitup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mixitup.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\js\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\js\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scrollreveal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\css\\custom.css",
+      "PackagePath": "staticwebassets\\build\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\css\\custom.css.map",
+      "PackagePath": "staticwebassets\\build\\css\\custom.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\css\\custom.min.css",
+      "PackagePath": "staticwebassets\\build\\css\\custom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\css\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\build\\css\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\css\\daterangepicker.css.map",
+      "PackagePath": "staticwebassets\\build\\css\\daterangepicker.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\css\\daterangepicker.min.css",
+      "PackagePath": "staticwebassets\\build\\css\\daterangepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\css\\maps\\jquery-jvectormap-2.0.3.css",
+      "PackagePath": "staticwebassets\\build\\css\\maps\\jquery-jvectormap-2.0.3.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\B_Yekan.eot",
+      "PackagePath": "staticwebassets\\build\\fonts\\B_Yekan.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\B_Yekan.svg",
+      "PackagePath": "staticwebassets\\build\\fonts\\B_Yekan.svg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\B_Yekan.ttf",
+      "PackagePath": "staticwebassets\\build\\fonts\\B_Yekan.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\B_Yekan.woff",
+      "PackagePath": "staticwebassets\\build\\fonts\\B_Yekan.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\DroidKufi-Regular.eot",
+      "PackagePath": "staticwebassets\\build\\fonts\\DroidKufi-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\DroidKufi-Regular.ttf",
+      "PackagePath": "staticwebassets\\build\\fonts\\DroidKufi-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\DroidKufi-Regular.woff",
+      "PackagePath": "staticwebassets\\build\\fonts\\DroidKufi-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\DroidKufi-Regular.woff2",
+      "PackagePath": "staticwebassets\\build\\fonts\\DroidKufi-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\FontAweasome.otf",
+      "PackagePath": "staticwebassets\\build\\fonts\\FontAweasome.otf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\build\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\Yekan-modified.eot",
+      "PackagePath": "staticwebassets\\build\\fonts\\Yekan-modified.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\Yekan-modified.ttf",
+      "PackagePath": "staticwebassets\\build\\fonts\\Yekan-modified.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\Yekan-modified.woff",
+      "PackagePath": "staticwebassets\\build\\fonts\\Yekan-modified.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\eot\\IRANSansWeb(FaNum).eot",
+      "PackagePath": "staticwebassets\\build\\fonts\\eot\\IRANSansWeb(FaNum).eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\eot\\IRANSansWeb(FaNum)_Black.eot",
+      "PackagePath": "staticwebassets\\build\\fonts\\eot\\IRANSansWeb(FaNum)_Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\eot\\IRANSansWeb(FaNum)_Bold.eot",
+      "PackagePath": "staticwebassets\\build\\fonts\\eot\\IRANSansWeb(FaNum)_Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\eot\\IRANSansWeb(FaNum)_Light.eot",
+      "PackagePath": "staticwebassets\\build\\fonts\\eot\\IRANSansWeb(FaNum)_Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\eot\\IRANSansWeb(FaNum)_Medium.eot",
+      "PackagePath": "staticwebassets\\build\\fonts\\eot\\IRANSansWeb(FaNum)_Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\eot\\IRANSansWeb(FaNum)_UltraLight.eot",
+      "PackagePath": "staticwebassets\\build\\fonts\\eot\\IRANSansWeb(FaNum)_UltraLight.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\eot\\IRANSansWeb.eot",
+      "PackagePath": "staticwebassets\\build\\fonts\\eot\\IRANSansWeb.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\eot\\IRANSansWeb_Black.eot",
+      "PackagePath": "staticwebassets\\build\\fonts\\eot\\IRANSansWeb_Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\eot\\IRANSansWeb_Bold.eot",
+      "PackagePath": "staticwebassets\\build\\fonts\\eot\\IRANSansWeb_Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\eot\\IRANSansWeb_Light.eot",
+      "PackagePath": "staticwebassets\\build\\fonts\\eot\\IRANSansWeb_Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\eot\\IRANSansWeb_Medium.eot",
+      "PackagePath": "staticwebassets\\build\\fonts\\eot\\IRANSansWeb_Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\eot\\IRANSansWeb_UltraLight.eot",
+      "PackagePath": "staticwebassets\\build\\fonts\\eot\\IRANSansWeb_UltraLight.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\build\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\build\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\build\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\build\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\build\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\openSans-400.woff2",
+      "PackagePath": "staticwebassets\\build\\fonts\\openSans-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\openSans-600.woff2",
+      "PackagePath": "staticwebassets\\build\\fonts\\openSans-600.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\openSans-700.woff2",
+      "PackagePath": "staticwebassets\\build\\fonts\\openSans-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\ttf\\IRANSansWeb(FaNum).ttf",
+      "PackagePath": "staticwebassets\\build\\fonts\\ttf\\IRANSansWeb(FaNum).ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\ttf\\IRANSansWeb(FaNum)_Black.ttf",
+      "PackagePath": "staticwebassets\\build\\fonts\\ttf\\IRANSansWeb(FaNum)_Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\ttf\\IRANSansWeb(FaNum)_Bold.ttf",
+      "PackagePath": "staticwebassets\\build\\fonts\\ttf\\IRANSansWeb(FaNum)_Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\ttf\\IRANSansWeb(FaNum)_Light.ttf",
+      "PackagePath": "staticwebassets\\build\\fonts\\ttf\\IRANSansWeb(FaNum)_Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\ttf\\IRANSansWeb(FaNum)_Medium.ttf",
+      "PackagePath": "staticwebassets\\build\\fonts\\ttf\\IRANSansWeb(FaNum)_Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\ttf\\IRANSansWeb(FaNum)_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\build\\fonts\\ttf\\IRANSansWeb(FaNum)_UltraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\ttf\\IRANSansWeb.ttf",
+      "PackagePath": "staticwebassets\\build\\fonts\\ttf\\IRANSansWeb.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\ttf\\IRANSansWeb_Black.ttf",
+      "PackagePath": "staticwebassets\\build\\fonts\\ttf\\IRANSansWeb_Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\ttf\\IRANSansWeb_Bold.ttf",
+      "PackagePath": "staticwebassets\\build\\fonts\\ttf\\IRANSansWeb_Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\ttf\\IRANSansWeb_Light.ttf",
+      "PackagePath": "staticwebassets\\build\\fonts\\ttf\\IRANSansWeb_Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\ttf\\IRANSansWeb_Medium.ttf",
+      "PackagePath": "staticwebassets\\build\\fonts\\ttf\\IRANSansWeb_Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\ttf\\IRANSansWeb_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\build\\fonts\\ttf\\IRANSansWeb_UltraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff2\\IRANSansWeb(FaNum).woff2",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff2\\IRANSansWeb(FaNum).woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff2\\IRANSansWeb(FaNum)_Black.woff2",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff2\\IRANSansWeb(FaNum)_Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff2\\IRANSansWeb(FaNum)_Bold.woff2",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff2\\IRANSansWeb(FaNum)_Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff2\\IRANSansWeb(FaNum)_Light.woff2",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff2\\IRANSansWeb(FaNum)_Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff2\\IRANSansWeb(FaNum)_Medium.woff2",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff2\\IRANSansWeb(FaNum)_Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff2\\IRANSansWeb(FaNum)_UltraLight.woff2",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff2\\IRANSansWeb(FaNum)_UltraLight.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff2\\IRANSansWeb.woff2",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff2\\IRANSansWeb.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff2\\IRANSansWeb_Black.woff2",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff2\\IRANSansWeb_Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff2\\IRANSansWeb_Bold.woff2",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff2\\IRANSansWeb_Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff2\\IRANSansWeb_Light.woff2",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff2\\IRANSansWeb_Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff2\\IRANSansWeb_Medium.woff2",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff2\\IRANSansWeb_Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff2\\IRANSansWeb_UltraLight.woff2",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff2\\IRANSansWeb_UltraLight.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff\\IRANSansWeb(FaNum).woff",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff\\IRANSansWeb(FaNum).woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff\\IRANSansWeb(FaNum)_Black.woff",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff\\IRANSansWeb(FaNum)_Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff\\IRANSansWeb(FaNum)_Bold.woff",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff\\IRANSansWeb(FaNum)_Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff\\IRANSansWeb(FaNum)_Light.woff",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff\\IRANSansWeb(FaNum)_Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff\\IRANSansWeb(FaNum)_Medium.woff",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff\\IRANSansWeb(FaNum)_Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff\\IRANSansWeb(FaNum)_UltraLight.woff",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff\\IRANSansWeb(FaNum)_UltraLight.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff\\IRANSansWeb.woff",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff\\IRANSansWeb.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff\\IRANSansWeb_Black.woff",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff\\IRANSansWeb_Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff\\IRANSansWeb_Bold.woff",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff\\IRANSansWeb_Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff\\IRANSansWeb_Light.woff",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff\\IRANSansWeb_Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff\\IRANSansWeb_Medium.woff",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff\\IRANSansWeb_Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\fonts\\woff\\IRANSansWeb_UltraLight.woff",
+      "PackagePath": "staticwebassets\\build\\fonts\\woff\\IRANSansWeb_UltraLight.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\images\\Khalil.png",
+      "PackagePath": "staticwebassets\\build\\images\\Khalil.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\images\\american-express.png",
+      "PackagePath": "staticwebassets\\build\\images\\american-express.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\images\\cropper.jpg",
+      "PackagePath": "staticwebassets\\build\\images\\cropper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\build\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\images\\img.jpg",
+      "PackagePath": "staticwebassets\\build\\images\\img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\images\\inbox.png",
+      "PackagePath": "staticwebassets\\build\\images\\inbox.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\images\\mastercard.png",
+      "PackagePath": "staticwebassets\\build\\images\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\images\\media.jpg",
+      "PackagePath": "staticwebassets\\build\\images\\media.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\images\\paypal.png",
+      "PackagePath": "staticwebassets\\build\\images\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\images\\picture.jpg",
+      "PackagePath": "staticwebassets\\build\\images\\picture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\images\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\build\\images\\prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\images\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\build\\images\\prod-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\images\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\build\\images\\prod-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\images\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\build\\images\\prod-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\images\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\build\\images\\prod-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\images\\user.png",
+      "PackagePath": "staticwebassets\\build\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\images\\visa.png",
+      "PackagePath": "staticwebassets\\build\\images\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\js\\custom.js",
+      "PackagePath": "staticwebassets\\build\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\js\\custom.min.js",
+      "PackagePath": "staticwebassets\\build\\js\\custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\js\\datepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\build\\js\\datepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\js\\helpers\\smartresize.js",
+      "PackagePath": "staticwebassets\\build\\js\\helpers\\smartresize.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\build\\js\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\build\\js\\moment\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\.bower.json",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\.bower.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\LICENSE",
+      "PackagePath": "staticwebassets\\vendors\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\animate-config.json",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\animate-config.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\animate.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\animate.min.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\bower.json",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\gulpfile.js",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\package.json",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\_base.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\_base.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\attention_seekers\\bounce.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\attention_seekers\\bounce.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\attention_seekers\\flash.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\attention_seekers\\flash.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\attention_seekers\\headShake.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\attention_seekers\\headShake.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\attention_seekers\\jello.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\attention_seekers\\jello.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\attention_seekers\\pulse.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\attention_seekers\\pulse.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\attention_seekers\\rubberBand.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\attention_seekers\\rubberBand.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\attention_seekers\\shake.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\attention_seekers\\shake.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\attention_seekers\\swing.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\attention_seekers\\swing.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\attention_seekers\\tada.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\attention_seekers\\tada.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\attention_seekers\\wobble.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\attention_seekers\\wobble.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\bouncing_entrances\\bounceIn.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\bouncing_entrances\\bounceIn.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\bouncing_entrances\\bounceInDown.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\bouncing_entrances\\bounceInDown.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\bouncing_entrances\\bounceInLeft.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\bouncing_entrances\\bounceInLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\bouncing_entrances\\bounceInRight.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\bouncing_entrances\\bounceInRight.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\bouncing_entrances\\bounceInUp.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\bouncing_entrances\\bounceInUp.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\bouncing_exits\\bounceOut.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\bouncing_exits\\bounceOut.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\bouncing_exits\\bounceOutDown.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\bouncing_exits\\bounceOutDown.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\bouncing_exits\\bounceOutLeft.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\bouncing_exits\\bounceOutLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\bouncing_exits\\bounceOutRight.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\bouncing_exits\\bounceOutRight.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\bouncing_exits\\bounceOutUp.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\bouncing_exits\\bounceOutUp.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\fading_entrances\\fadeIn.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\fading_entrances\\fadeIn.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\fading_entrances\\fadeInDown.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\fading_entrances\\fadeInDown.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\fading_entrances\\fadeInDownBig.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\fading_entrances\\fadeInDownBig.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\fading_entrances\\fadeInLeft.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\fading_entrances\\fadeInLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\fading_entrances\\fadeInLeftBig.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\fading_entrances\\fadeInLeftBig.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\fading_entrances\\fadeInRight.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\fading_entrances\\fadeInRight.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\fading_entrances\\fadeInRightBig.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\fading_entrances\\fadeInRightBig.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\fading_entrances\\fadeInUp.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\fading_entrances\\fadeInUp.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\fading_entrances\\fadeInUpBig.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\fading_entrances\\fadeInUpBig.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\fading_exits\\fadeOut.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\fading_exits\\fadeOut.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\fading_exits\\fadeOutDown.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\fading_exits\\fadeOutDown.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\fading_exits\\fadeOutDownBig.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\fading_exits\\fadeOutDownBig.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\fading_exits\\fadeOutLeft.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\fading_exits\\fadeOutLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\fading_exits\\fadeOutLeftBig.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\fading_exits\\fadeOutLeftBig.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\fading_exits\\fadeOutRight.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\fading_exits\\fadeOutRight.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\fading_exits\\fadeOutRightBig.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\fading_exits\\fadeOutRightBig.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\fading_exits\\fadeOutUp.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\fading_exits\\fadeOutUp.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\fading_exits\\fadeOutUpBig.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\fading_exits\\fadeOutUpBig.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\flippers\\flip.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\flippers\\flip.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\flippers\\flipInX.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\flippers\\flipInX.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\flippers\\flipInY.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\flippers\\flipInY.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\flippers\\flipOutX.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\flippers\\flipOutX.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\flippers\\flipOutY.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\flippers\\flipOutY.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\lightspeed\\lightSpeedIn.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\lightspeed\\lightSpeedIn.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\lightspeed\\lightSpeedOut.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\lightspeed\\lightSpeedOut.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\rotating_entrances\\rotateIn.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\rotating_entrances\\rotateIn.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\rotating_entrances\\rotateInDownLeft.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\rotating_entrances\\rotateInDownLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\rotating_entrances\\rotateInDownRight.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\rotating_entrances\\rotateInDownRight.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\rotating_entrances\\rotateInUpLeft.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\rotating_entrances\\rotateInUpLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\rotating_entrances\\rotateInUpRight.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\rotating_entrances\\rotateInUpRight.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\rotating_exits\\rotateOut.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\rotating_exits\\rotateOut.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\rotating_exits\\rotateOutDownLeft.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\rotating_exits\\rotateOutDownLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\rotating_exits\\rotateOutDownRight.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\rotating_exits\\rotateOutDownRight.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\rotating_exits\\rotateOutUpLeft.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\rotating_exits\\rotateOutUpLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\rotating_exits\\rotateOutUpRight.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\rotating_exits\\rotateOutUpRight.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\sliding_entrances\\slideInDown.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\sliding_entrances\\slideInDown.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\sliding_entrances\\slideInLeft.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\sliding_entrances\\slideInLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\sliding_entrances\\slideInRight.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\sliding_entrances\\slideInRight.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\sliding_entrances\\slideInUp.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\sliding_entrances\\slideInUp.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\sliding_exits\\slideOutDown.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\sliding_exits\\slideOutDown.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\sliding_exits\\slideOutLeft.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\sliding_exits\\slideOutLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\sliding_exits\\slideOutRight.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\sliding_exits\\slideOutRight.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\sliding_exits\\slideOutUp.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\sliding_exits\\slideOutUp.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\specials\\hinge.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\specials\\hinge.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\specials\\rollIn.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\specials\\rollIn.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\specials\\rollOut.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\specials\\rollOut.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\zooming_entrances\\zoomIn.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\zooming_entrances\\zoomIn.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\zooming_entrances\\zoomInDown.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\zooming_entrances\\zoomInDown.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\zooming_entrances\\zoomInLeft.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\zooming_entrances\\zoomInLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\zooming_entrances\\zoomInRight.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\zooming_entrances\\zoomInRight.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\zooming_entrances\\zoomInUp.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\zooming_entrances\\zoomInUp.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\zooming_exits\\zoomOut.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\zooming_exits\\zoomOut.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\zooming_exits\\zoomOutDown.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\zooming_exits\\zoomOutDown.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\zooming_exits\\zoomOutLeft.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\zooming_exits\\zoomOutLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\zooming_exits\\zoomOutRight.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\zooming_exits\\zoomOutRight.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\animate.css\\source\\zooming_exits\\zoomOutUp.css",
+      "PackagePath": "staticwebassets\\vendors\\animate.css\\source\\zooming_exits\\zoomOutUp.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\autosize\\.bower.json",
+      "PackagePath": "staticwebassets\\vendors\\autosize\\.bower.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\autosize\\.gitignore",
+      "PackagePath": "staticwebassets\\vendors\\autosize\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\autosize\\LICENSE.md",
+      "PackagePath": "staticwebassets\\vendors\\autosize\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\autosize\\bower.json",
+      "PackagePath": "staticwebassets\\vendors\\autosize\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\autosize\\build.js",
+      "PackagePath": "staticwebassets\\vendors\\autosize\\build.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\autosize\\changelog.md",
+      "PackagePath": "staticwebassets\\vendors\\autosize\\changelog.md"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\autosize\\dist\\autosize.js",
+      "PackagePath": "staticwebassets\\vendors\\autosize\\dist\\autosize.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\autosize\\dist\\autosize.min.js",
+      "PackagePath": "staticwebassets\\vendors\\autosize\\dist\\autosize.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\autosize\\example\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\autosize\\example\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\autosize\\package.json",
+      "PackagePath": "staticwebassets\\vendors\\autosize\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\autosize\\readme.md",
+      "PackagePath": "staticwebassets\\vendors\\autosize\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\autosize\\src\\autosize.js",
+      "PackagePath": "staticwebassets\\vendors\\autosize\\src\\autosize.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\.bower.json",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\.bower.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\README.md",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\bower.json",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\daterangepicker.scss",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\daterangepicker.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\demo.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\drp.png",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\drp.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\example\\amd\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\example\\amd\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\example\\amd\\main.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\example\\amd\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\example\\amd\\require.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\example\\amd\\require.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\example\\browserify\\README.md",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\example\\browserify\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\example\\browserify\\bundle.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\example\\browserify\\bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\example\\browserify\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\example\\browserify\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\example\\browserify\\main.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\example\\browserify\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\package.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\package.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\package.json",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\website\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\website\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\website\\website.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\website\\website.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-daterangepicker\\website\\website.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-daterangepicker\\website\\website.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\.bower.json",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\.bower.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\CONTRIBUTORS.md",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\CONTRIBUTORS.md"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\LICENSE",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\README.md",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\bootstrap-progressbar.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\bootstrap-progressbar.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\bootstrap-progressbar.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\bootstrap-progressbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\bower.json",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.0.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.0.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.0.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.0.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.1.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.1.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.1.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.1.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.2.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.2.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.2.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.3.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.3.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.3.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.3.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.4.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.4.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.4.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.0.4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.1.0.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.1.0.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.1.0.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.1.0.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.1.1.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.1.1.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.1.1.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.1.1.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.2.0.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.2.0.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.2.0.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.2.0.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.2.1.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.2.1.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.2.1.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.2.1.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.2.2.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.2.2.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.2.2.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.2.2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.3.0.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.3.0.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.3.0.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.3.0.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.3.1.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.3.1.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.3.1.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.3.1.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.3.2.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.3.2.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.3.2.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-2.3.2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.0-rc1.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.0-rc1.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.0-rc1.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.0-rc1.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.0-rc2.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.0-rc2.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.0-rc2.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.0-rc2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.0.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.0.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.0.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.0.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.1.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.1.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.1.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.1.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.2.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.2.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.2.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.3.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.3.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.3.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.0.3.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.1.0.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.1.0.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.1.0.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.1.0.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.1.1.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.1.1.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.1.1.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.1.1.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.2.0.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.2.0.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.2.0.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.2.0.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.3.0.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.3.0.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.3.0.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.3.0.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.3.1.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.3.1.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.3.1.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.3.1.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.3.2.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.3.2.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.3.2.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.3.2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.3.4.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.3.4.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.3.4.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\css\\bootstrap-progressbar-3.3.4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\less\\bootstrap-progressbar-2.x.x.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\less\\bootstrap-progressbar-2.x.x.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\less\\bootstrap-progressbar-3.0.0-3.1.x.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\less\\bootstrap-progressbar-3.0.0-3.1.x.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\less\\bootstrap-progressbar-3.2.0.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\less\\bootstrap-progressbar-3.2.0.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\less\\bootstrap-progressbar-3.3.0-3.x.x.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\less\\bootstrap-progressbar-3.3.0-3.x.x.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\package.json",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\scss\\bootstrap-progressbar-2.x.x.scss",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\scss\\bootstrap-progressbar-2.x.x.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\scss\\bootstrap-progressbar-3.0.0-3.1.x.scss",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\scss\\bootstrap-progressbar-3.0.0-3.1.x.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\scss\\bootstrap-progressbar-3.2.0.scss",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\scss\\bootstrap-progressbar-3.2.0.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-progressbar\\scss\\bootstrap-progressbar-3.3.0-3.x.x.scss",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-progressbar\\scss\\bootstrap-progressbar-3.3.0-3.x.x.scss"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\.bower.json",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\.bower.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\LICENSE.bootstrap",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\LICENSE.bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\README.md",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\UNLICENSE",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\assets\\ico\\favicon.png",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\assets\\ico\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\assets\\js\\holder.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\assets\\js\\holder.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\assets\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\assets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\assets\\js\\respond.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\assets\\js\\respond.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\bower.json",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.1.1-rc1\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.1.1-rc1\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.1.1-rc1\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.1.1-rc1\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.1.1-rc2\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.1.1-rc2\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.1.1-rc2\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.1.1-rc2\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.1.1\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.1.1\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.1.1\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.1.1\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.1.2\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.1.2\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.1.2\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.1.2\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc1\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc1\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc1\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc1\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc2\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc2\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc2\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc2\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc3\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc3\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc3\\css\\bootstrap-rtl.css.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc3\\css\\bootstrap-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc3\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc3\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc4\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc4\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc4\\css\\bootstrap-rtl.css.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc4\\css\\bootstrap-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc4\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.2.0-rc4\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.1-rc1\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.1-rc1\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.1-rc1\\css\\bootstrap-rtl.css.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.1-rc1\\css\\bootstrap-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.1-rc1\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.1-rc1\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.1-rc2\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.1-rc2\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.1-rc2\\css\\bootstrap-rtl.css.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.1-rc2\\css\\bootstrap-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.1-rc2\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.1-rc2\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.1\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.1\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.1\\css\\bootstrap-rtl.css.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.1\\css\\bootstrap-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.1\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.1\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.4\\css\\bootstrap-flipped.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.4\\css\\bootstrap-flipped.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.4\\css\\bootstrap-flipped.css.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.4\\css\\bootstrap-flipped.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.4\\css\\bootstrap-flipped.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.4\\css\\bootstrap-flipped.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.4\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.4\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.4\\css\\bootstrap-rtl.css.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.4\\css\\bootstrap-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.4\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\cdnjs\\3.3.4\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\css\\bootstrap-flipped.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\css\\bootstrap-flipped.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\css\\bootstrap-flipped.css.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\css\\bootstrap-flipped.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\css\\bootstrap-flipped.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\css\\bootstrap-flipped.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\css\\bootstrap-rtl.css.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\css\\bootstrap-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\js\\holder.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\js\\holder.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\js\\html5shiv.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\dist\\js\\respond.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\dist\\js\\respond.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\carousel\\carousel.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\carousel\\carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\carousel\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\carousel\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\assets\\flash\\ZeroClipboard.swf",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\assets\\flash\\ZeroClipboard.swf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\assets\\js\\ie-emulation-modes-warning.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\assets\\js\\ie-emulation-modes-warning.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\assets\\js\\ie10-viewport-bug-workaround.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\assets\\js\\ie10-viewport-bug-workaround.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\assets\\js\\ie8-responsive-file-warning.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\assets\\js\\ie8-responsive-file-warning.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\assets\\js\\vendor\\holder.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\assets\\js\\vendor\\holder.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\css\\bootstrap-rtl.css.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\css\\bootstrap-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\blog\\blog.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\blog\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\blog\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\blog\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\carousel\\carousel.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\carousel\\carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\carousel\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\carousel\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\cover\\cover.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\cover\\cover.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\cover\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\cover\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\dashboard\\dashboard.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\dashboard\\dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\dashboard\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\dashboard\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\grid\\grid.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\grid\\grid.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\grid\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\grid\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\jumbotron-narrow\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\jumbotron-narrow\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\jumbotron-narrow\\jumbotron-narrow.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\jumbotron-narrow\\jumbotron-narrow.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\jumbotron\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\jumbotron\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\jumbotron\\jumbotron.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\jumbotron\\jumbotron.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\justified-nav\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\justified-nav\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\justified-nav\\justified-nav.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\justified-nav\\justified-nav.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\navbar-fixed-top\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\navbar-fixed-top\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\navbar-fixed-top\\navbar-fixed-top.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\navbar-fixed-top\\navbar-fixed-top.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\navbar-static-top\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\navbar-static-top\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\navbar-static-top\\navbar-static-top.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\navbar-static-top\\navbar-static-top.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\navbar\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\navbar\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\navbar\\navbar.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\navbar\\navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\non-responsive\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\non-responsive\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\non-responsive\\non-responsive.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\non-responsive\\non-responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\offcanvas\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\offcanvas\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\offcanvas\\offcanvas.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\offcanvas\\offcanvas.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\offcanvas\\offcanvas.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\offcanvas\\offcanvas.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\signin\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\signin\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\signin\\signin.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\signin\\signin.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\starter-template\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\starter-template\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\starter-template\\starter-template.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\starter-template\\starter-template.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\sticky-footer-navbar\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\sticky-footer-navbar\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\sticky-footer-navbar\\sticky-footer-navbar.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\sticky-footer-navbar\\sticky-footer-navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\sticky-footer\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\sticky-footer\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\sticky-footer\\sticky-footer.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\sticky-footer\\sticky-footer.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\theme\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\theme\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\theme\\theme.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\theme\\theme.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\tooltip-viewport\\index.html",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\tooltip-viewport\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\tooltip-viewport\\tooltip-viewport.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\tooltip-viewport\\tooltip-viewport.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\tooltip-viewport\\tooltip-viewport.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\examples\\originals\\examples\\tooltip-viewport\\tooltip-viewport.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap-rtl\\package.json",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-rtl\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\.bower.json",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\.bower.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\Gemfile",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\Gemfile.lock",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\Gemfile.lock"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\ISSUE_TEMPLATE.md",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\ISSUE_TEMPLATE.md"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\README.md",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\bower.json",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\dist\\js\\npm.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\dist\\js\\npm.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\grunt\\.jshintrc",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\grunt\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\grunt\\bs-commonjs-generator.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\grunt\\bs-commonjs-generator.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\grunt\\bs-glyphicons-data-generator.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\grunt\\bs-glyphicons-data-generator.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\grunt\\bs-lessdoc-parser.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\grunt\\bs-lessdoc-parser.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\grunt\\bs-raw-files-generator.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\grunt\\bs-raw-files-generator.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\grunt\\change-version.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\grunt\\change-version.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\grunt\\configBridge.json",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\grunt\\configBridge.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\grunt\\npm-shrinkwrap.json",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\grunt\\npm-shrinkwrap.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\grunt\\sauce_browsers.yml",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\grunt\\sauce_browsers.yml"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\js\\.jscsrc",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\js\\.jscsrc"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\js\\.jshintrc",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\js\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\js\\affix.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\js\\affix.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\js\\alert.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\js\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\js\\button.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\js\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\js\\carousel.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\js\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\js\\collapse.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\js\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\js\\dropdown.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\js\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\js\\modal.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\js\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\js\\popover.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\js\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\js\\scrollspy.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\js\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\js\\tab.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\js\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\js\\transition.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\js\\transition.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\.csscomb.json",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\.csscomb.json"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\.csslintrc",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\.csslintrc"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\alerts.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\alerts.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\badges.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\badges.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\bootstrap.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\bootstrap.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\breadcrumbs.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\breadcrumbs.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\button-groups.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\button-groups.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\buttons.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\buttons.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\carousel.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\carousel.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\close.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\close.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\code.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\code.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\component-animations.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\component-animations.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\dropdowns.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\dropdowns.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\forms.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\forms.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\glyphicons.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\glyphicons.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\grid.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\grid.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\input-groups.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\input-groups.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\jumbotron.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\jumbotron.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\labels.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\labels.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\list-group.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\list-group.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\media.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\media.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\alerts.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\alerts.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\background-variant.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\background-variant.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\border-radius.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\border-radius.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\buttons.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\buttons.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\center-block.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\center-block.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\clearfix.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\clearfix.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\forms.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\forms.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\gradients.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\gradients.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\grid-framework.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\grid-framework.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\grid.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\grid.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\hide-text.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\hide-text.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\image.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\image.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\labels.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\labels.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\list-group.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\list-group.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\nav-divider.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\nav-divider.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\nav-vertical-align.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\nav-vertical-align.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\opacity.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\opacity.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\pagination.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\pagination.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\panels.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\panels.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\progress-bar.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\progress-bar.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\reset-filter.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\reset-filter.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\reset-text.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\reset-text.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\resize.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\resize.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\responsive-visibility.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\responsive-visibility.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\size.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\size.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\tab-focus.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\tab-focus.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\table-row.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\table-row.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\text-emphasis.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\text-emphasis.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\text-overflow.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\text-overflow.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\mixins\\vendor-prefixes.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\mixins\\vendor-prefixes.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\modals.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\modals.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\navbar.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\navbar.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\navs.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\navs.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\normalize.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\normalize.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\pager.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\pager.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\pagination.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\pagination.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\panels.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\panels.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\popovers.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\popovers.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\print.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\print.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\progress-bars.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\progress-bars.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\responsive-embed.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\responsive-embed.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\responsive-utilities.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\responsive-utilities.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\scaffolding.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\scaffolding.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\tables.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\tables.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\theme.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\theme.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\thumbnails.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\thumbnails.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\tooltip.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\tooltip.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\type.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\type.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\utilities.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\utilities.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\variables.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\less\\wells.less",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\less\\wells.less"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\nuget\\MyGet.ps1",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\nuget\\MyGet.ps1"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\nuget\\bootstrap.less.nuspec",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\nuget\\bootstrap.less.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\nuget\\bootstrap.nuspec",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\nuget\\bootstrap.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\package.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\package.js"
+    },
+    {
+      "Id": "C:\\Users\\NTC\\Downloads\\Project2023_5-26\\Project2023\\Project2023\\wwwroot\\vendors\\bootstrap\\package.json",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\package.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Project2023.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Project2023.props",
+      "PackagePath": "build\\Project2023.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Project2023.props",
+      "PackagePath": "buildMultiTargeting\\Project2023.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Project2023.props",
+      "PackagePath": "buildTransitive\\Project2023.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

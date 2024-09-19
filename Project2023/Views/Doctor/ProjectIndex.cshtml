@@ -1,0 +1,124 @@
+﻿@model IEnumerable<Project2023.Models.Project>
+
+@{
+    ViewData["Title"] = "مشروع التخرج";
+    Layout = "~/Views/Shared/_DoctorLayout.cshtml";
+}
+
+
+
+<div class="right_col" role="main" style="margin-right:50px; height:75vh">
+    <div class="">
+        
+
+        <div class="clearfix"></div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="x_panel">
+                   
+                    <div class="x_content">
+                     @if (TempData["error"] != null)
+                     {
+                            <div class="row" style="background-color:#f8d7da; color:#721c24;padding:20px">
+                          @TempData["error"]
+                      </div>  
+                     }
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="x_panel">
+                                   
+                                    <div class="x_content">
+
+                                       
+
+                                        <!-- start project list -->
+                                        <table class="table table-striped پروژه ها">
+                                            <thead>
+                                                <tr>
+                                                    <th style="width: 1%">التسلسل</th>
+                                                    <th style="width: 20%">@Html.DisplayNameFor(model => model.ProjectTitle)</th>
+                                                    <th>اعضاء الفريق</th>
+                                                    <th>@Html.DisplayNameFor(model => model.percentage)</th>
+                                                    <th>@Html.DisplayNameFor(model => model.Decision)</th>
+                                                    <th style="width: 20%">التفاصيل</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                @foreach (var item in Model)
+                                                {
+                                                    <tr>
+                                                        <td>#</td>
+                                                        <td>
+                                                            <a asp-action="ApprovalFormDoc" asp-controller="Student" asp-route-id="@item.Id">
+                                                                @Html.DisplayFor(modelItem => item.ProjectTitle)
+                                                            </a>
+
+
+                                                            <br>
+                                                            <small>@Html.DisplayFor(modelItem => item.ProjectDoctor.DoctorName)</small>
+                                                        </td>
+                                                        <td>
+                                                            <ul class="list-inline">
+                                                                <li>
+                                                                    <img src="~/images/@item.ProjectStudent1.DImage" class="avatar" alt="Avatar" title="@item.ProjectStudent1.DoctorName">
+                                                                </li>
+                                                                <li>
+                                                                    <img src="~/images/@item.ProjectStudent2.DImage" class="avatar" alt="Avatar" title="@item.ProjectStudent2.DoctorName">
+                                                                </li>
+                                                                @if (item.ProjectStudent3 != null)
+                                                                {
+                                                                    <li>
+                                                                        <img src="~/images/@item.ProjectStudent3.DImage" class="avatar" alt="Avatar" title="@item.ProjectStudent3.DoctorName">
+                                                                    </li>
+                                                                }
+                                                                @if (item.ProjectStudent4 != null)
+                                                                {
+                                                                    <li>
+                                                                        <img src="~/images/@item.ProjectStudent4.DImage" class="avatar" alt="Avatar" title="@item.ProjectStudent4.DoctorName">
+                                                                    </li>
+                                                                }
+
+                                                            </ul>
+                                                        </td>
+                                                        <td class="project_progress">
+                                                            <div class="progress progress_sm">
+                                                                <div class="progress-bar bg-green" role="progressbar" data-transitiongoal="@item.percentage" aria-valuenow="@item.percentage" style="width:@item.percentage%;"></div>
+                                                            </div>
+                                                            <small>@item.percentage % نسبة الانجاز</small>
+                                                        </td>
+                                                        <td>
+                                                            <button type="button" class="btn btn-success btn-xs">موافق</button>
+                                                        </td>
+                                                        <td class="nowrap">
+                                                            <a asp-controller="Doctor" asp-action="ProjectWeeksFormDoc"   asp-route-id="@item.Id" class="btn btn-primary btn-xs"><i class="fa fa-folder"></i>معاينة الاسابيع </a>
+                                                            <a asp-controller="Doctor" asp-action="ProjectAssessmentForm" asp-route-id="@item.Id" class="btn btn-danger btn-xs"><i class="fa fa-trash-o"></i>   تقييم المشرف</a>
+                                                            <a asp-controller="Doctor" asp-action="DissDateForm"          asp-route-id="@item.Id" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> موعد المناقشة </a>
+                                                            <a asp-controller="Doctor" asp-action="ProjectCommDecision" asp-route-id="@item.Id" class="btn btn-danger btn-xs"><i class="fa fa-trash-o"></i>   تقييم اللجنة</a>
+                                                            
+                                                        </td>
+                                                    </tr>
+                                                }
+                                            </tbody>
+                                        </table>
+                                        <!-- end project list -->
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="clearfix"></div>
+
+
+
+
+

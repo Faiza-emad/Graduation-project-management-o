@@ -1,0 +1,287 @@
+﻿@model Project2023.ViewModels.ProjectViewModel
+
+@{
+    ViewData["Title"] = "الصفحة الرئيسية";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+@*StudentInfo*@
+<div class="col-md-12 col-xs-12">
+    <div class="x_panel">
+        <div class="x_title">
+            <h2>
+                يعبأ هذا النموذج من قبل الطلبة المشاركين في المشروع، ويسلم للمشرف عن المشروع في بداية الفصل الدراسي:
+
+            </h2>
+
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <br>
+            <form asp-action="EditApprovalForm" class="form-horizontal form-label-left">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="DoctorId" class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الاول </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <select asp-for="DoctorId" type="text" class="form-control" asp-items="ViewBag.StudentName1"></select>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="DoctorId" class="control-label col-md-3 col-sm-3 col-xs-12">الرقم الجامعي للطالب الأول  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <select asp-for="DoctorId" type="text" class="form-control" asp-items="ViewBag.Student1"></select>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="DoctorId" class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الثاني </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <select asp-for="DoctorId" type="text" class="form-control" asp-items="ViewBag.StudentName2"></select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DoctorId" class="control-label col-md-3 col-sm-3 col-xs-12">الرقم الجامعي للطالب الثاني  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <select asp-for="DoctorId" type="text" class="form-control" asp-items="ViewBag.Student2"></select>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="DoctorId" class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الثالث </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <select asp-for="DoctorId" type="text" class="form-control" asp-items="ViewBag.Student3"></select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DoctorId" class="control-label col-md-3 col-sm-3 col-xs-12">الرقم الجامعي للطالب الثالث  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <select asp-for="DoctorId" type="text" class="form-control" asp-items="ViewBag.StudentName3"></select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DoctorId" class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الرابع </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <select asp-for="DoctorId" type="text" class="form-control" asp-items="ViewBag.StudentName4"></select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DoctorId" class="control-label col-md-3 col-sm-3 col-xs-12">الرقم الجامعي للطالب الرابع  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <select asp-for="DoctorId" type="text" class="form-control" asp-items="ViewBag.Student4"></select>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="DoctorId" class="control-label col-md-3 col-sm-3 col-xs-12">اسم المشرف </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <select asp-for="DoctorId" type="text" class="form-control" asp-items="ViewBag.DoctorId"></select>
+
+                    </div>
+                </div>
+
+
+
+
+            </form>
+        </div>
+    </div>
+</div>
+@*Project Title*@
+<div class="col-md-12 col-xs-12">
+    <div class="x_panel">
+        <div class="x_title">
+            <h2>
+                عنوان المشروع :
+
+            </h2>
+
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <br>
+            <form class="form-horizontal form-label-left">
+                <div class="form-group">
+                    <label asp-for="ProjectTitle" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        عنوان المشروع  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="ProjectTitle" class="form-control" rows="3" placeholder=" عنوان المشروع "></textarea>
+                    </div>
+                </div>
+
+
+
+
+            </form>
+        </div>
+    </div>
+</div>
+
+@*Project Info*@
+<div class="col-md-12 col-xs-12">
+    <div class="x_panel">
+        <div class="x_title">
+            <h2>
+                معلومات عن المشروع :
+
+            </h2>
+
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <br>
+            <form class="form-horizontal form-label-left">
+
+                <div class="form-group">
+                    <label asp-for="Place" class="control-label col-md-3 col-sm-3 col-xs-12">مكان التنفيذ  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Place" type="text" class="form-control" placeholder="مكان التنفيذ   ">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Address" class="control-label col-md-3 col-sm-3 col-xs-12">العنوان  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Address" type="text" class="form-control" placeholder="العنوان  ">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Tel" class="control-label col-md-3 col-sm-3 col-xs-12">الهاتف  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Tel" type="text" class="form-control" placeholder="الهاتف   ">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Fax" class="control-label col-md-3 col-sm-3 col-xs-12">فاكس  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Fax" type="text" class="form-control" placeholder="فاكس  ">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Email" class="control-label col-md-3 col-sm-3 col-xs-12">البريد الالكتروني  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Email" type="text" class="form-control" placeholder="البريد الالكتروني   ">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="WorkNature" class="control-label col-md-3 col-sm-3 col-xs-12">طبيعة العمل  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="WorkNature" type="text" class="form-control" placeholder="طبيعة العمل ">
+                    </div>
+                </div>
+
+
+
+
+
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@*Project objective*@
+<div class="col-md-12 col-xs-12">
+    <div class="x_panel">
+        <div class="x_title">
+            <h2>
+                أهداف المشروع :
+
+            </h2>
+
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <br>
+            <form class="form-horizontal form-label-left">
+                <div class="form-group">
+                    <label asp-for="Objective" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        أهداف المشروع  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="Objective" class="form-control" rows="3" placeholder=" أهداف المشروع "></textarea>
+                    </div>
+                </div>
+
+
+
+
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@*Project Target*@
+<div class="col-md-12 col-xs-12">
+    <div class="x_panel">
+        <div class="x_title">
+            <h2>
+                الفئة  المستهدفة :
+
+            </h2>
+
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <br>
+            <form class="form-horizontal form-label-left">
+                <div class="form-group">
+                    <label asp-for="Target" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        الفئة المستهدفة  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="Target" class="form-control" rows="3" placeholder=" الفئة المستهدفة "></textarea>
+                    </div>
+                </div>
+
+
+
+
+            </form>
+        </div>
+    </div>
+</div>
+
+@*Project Summary*@
+<div class="col-md-12 col-xs-12">
+    <div class="x_panel">
+        <div class="x_title">
+            <h2>
+                ملخص حول المشروع :
+
+            </h2>
+
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <br>
+            <form class="form-horizontal form-label-left">
+                <div class="form-group">
+                    <label asp-for="Summary" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        ملخص حول المشروع  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="Summary" class="form-control" rows="3" placeholder=" ملخص حول المشروع "></textarea>
+                    </div>
+                </div>
+
+
+
+
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="ln_solid"></div>
+<div class="form-group">
+    <div class="col-md-9 col-sm-9 col-xs-12 col-md-offset-3">
+        <button type="submit" class="btn btn-primary">الغاء</button>
+        <input asp-controller="Student" asp-action="EditApprovalForm" type="submit" value="حفظ" class="btn btn-success" />
+
+    </div>
+</div>

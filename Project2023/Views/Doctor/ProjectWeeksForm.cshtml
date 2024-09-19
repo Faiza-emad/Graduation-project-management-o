@@ -1,0 +1,616 @@
+﻿@model Project2023.Models.ProjectWeek
+@{
+    ViewData["Title"] = "التنفيذ";
+    Layout = "~/Views/Shared/_StudentLayout.cshtml";
+}
+
+@*Project title*@
+
+<form method="post" class="form-horizontal form-label-left">
+   <div role="main" style=" height:175vh">
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    عنوان المشروع :
+
+                </h2>
+                <input type="hidden" name="op" value="@ViewBag.op" />
+                    <input type="hidden" name="pid" value="@ViewBag.proID" />
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">
+                        عنوان المشروع  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input value="@ViewBag.ProjectTitle" class="form-control" rows="3" readonly>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    @*Project workers*@
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    المنفذون :
+
+                </h2>
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form asp-action="ApprovalForm" class="form-horizontal form-label-left"> *@
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label  class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الاول </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input type="text" value="@ViewBag.Student1Name" class="form-control" readonly>
+                    </div>
+                </div>
+
+              
+
+                <div class="form-group">
+                    <label  class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الثاني </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input type="text" class="form-control" value="@ViewBag.Student2Name" readonly>
+                    </div>
+                </div>
+              
+
+                <div class="form-group">
+                    <label  class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الثالث </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input type="text" value="@ViewBag.Student3Name" class="form-control" readonly>
+                    </div>
+                </div>
+             
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الرابع </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input type="text" value="@ViewBag.Student4Name" class="form-control" readonly>
+                    </div>
+                </div>
+             
+
+                <div class="form-group">
+                    <label  class="control-label col-md-3 col-sm-3 col-xs-12">اسم المشرف </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input type="text" class="form-control" value="@ViewBag.DoctorName" readonly>
+
+
+
+                    </div>
+                </div>
+
+
+
+
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+
+    @*project weeks*@
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    الاسبوع الاول :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label for="datetime" asp-for="Date1" class="control-label col-md-3 col-sm-3 col-xs-12"> التاريخ  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input asp-for="Date1" type="text" class="form-control" >
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Week1" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        التفاصيل  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="Week1" class="form-control" rows="3" placeholder="  التفاصيل "></textarea>
+                    </div>
+                </div>
+                    <div class="form-group">
+                        <label asp-for="percentage1" class="control-label col-md-3 col-sm-3 col-xs-12">
+                            نسبة الانجاز  <span class="required">*</span>
+                        </label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input asp-for="percentage1" class="form-control" style="width:200px" placeholder="  نسبة الانجاز " readonly>
+                        </div>
+                    </div>
+
+
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    الاسبوع الثاني :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="Date2" class="control-label col-md-3 col-sm-3 col-xs-12"> التاريخ  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Date2" type="text" class="form-control" placeholder="التاريخ    ">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Week2" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        التفاصيل  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="Week2" class="form-control" rows="3" placeholder="  التفاصيل "></textarea>
+                    </div>
+                </div>
+
+                    <div class="form-group">
+                        <label asp-for="percentage2" class="control-label col-md-3 col-sm-3 col-xs-12">
+                            نسبة الانجاز  <span class="required">*</span>
+                        </label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input asp-for="percentage2" class="form-control" style="width:200px" placeholder="  نسبة الانجاز " readonly>
+                        </div>
+                    </div>
+
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    الاسبوع الثالث :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="Date3" class="control-label col-md-3 col-sm-3 col-xs-12"> التاريخ  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Date3" type="text" class="form-control" placeholder="التاريخ    ">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Week3" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        التفاصيل  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="Week3" class="form-control" rows="3" placeholder="  التفاصيل "></textarea>
+                    </div>
+                </div>
+
+                    <div class="form-group">
+                        <label asp-for="percentage3" class="control-label col-md-3 col-sm-3 col-xs-12">
+                            نسبة الانجاز  <span class="required">*</span>
+                        </label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input asp-for="percentage3" class="form-control" style="width:200px" placeholder="  نسبة الانجاز " readonly>
+                        </div>
+                    </div>
+
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    الاسبوع الرابع :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="Date4" class="control-label col-md-3 col-sm-3 col-xs-12"> التاريخ  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Date4" type="text" class="form-control" placeholder="التاريخ    ">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Week4" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        التفاصيل  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="Week4" class="form-control" rows="3" placeholder="  التفاصيل "></textarea>
+                    </div>
+                </div>
+                    <div class="form-group">
+                        <label asp-for="percentage4" class="control-label col-md-3 col-sm-3 col-xs-12">
+                            نسبة الانجاز  <span class="required">*</span>
+                        </label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input asp-for="percentage4" class="form-control" style="width:200px" placeholder="  نسبة الانجاز " readonly>
+                        </div>
+                    </div>
+
+
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    الاسبوع الخامس :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="Date5" class="control-label col-md-3 col-sm-3 col-xs-12"> التاريخ  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Date5" type="text" class="form-control" placeholder="التاريخ    ">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Week5" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        التفاصيل  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="Week5" class="form-control" rows="3" placeholder="  التفاصيل "></textarea>
+                    </div>
+                </div>
+                    <div class="form-group">
+                        <label asp-for="percentage5" class="control-label col-md-3 col-sm-3 col-xs-12">
+                            نسبة الانجاز  <span class="required">*</span>
+                        </label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input asp-for="percentage5" class="form-control" style="width:200px" placeholder="  نسبة الانجاز " readonly>
+                        </div>
+                    </div>
+
+
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    الاسبوع السادس :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="Date6" class="control-label col-md-3 col-sm-3 col-xs-12"> التاريخ  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Date6" type="text" class="form-control" placeholder="التاريخ    ">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Week6" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        التفاصيل  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="Week6" class="form-control" rows="3" placeholder="  التفاصيل "></textarea>
+                    </div>
+                </div>
+
+                    <div class="form-group">
+                        <label asp-for="percentage6" class="control-label col-md-3 col-sm-3 col-xs-12">
+                            نسبة الانجاز  <span class="required">*</span>
+                        </label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input asp-for="percentage6" class="form-control" style="width:200px" placeholder="  نسبة الانجاز " readonly>
+                        </div>
+                    </div>
+
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    الاسبوع السابع :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="Date7" class="control-label col-md-3 col-sm-3 col-xs-12"> التاريخ  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Date7" type="text" class="form-control" placeholder="التاريخ    ">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Week7" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        التفاصيل  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="Week7" class="form-control" rows="3" placeholder="  التفاصيل "></textarea>
+                    </div>
+                </div>
+                    <div class="form-group">
+                        <label asp-for="percentage7" class="control-label col-md-3 col-sm-3 col-xs-12">
+                            نسبة الانجاز  <span class="required">*</span>
+                        </label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input asp-for="percentage7" class="form-control" style="width:200px" placeholder="  نسبة الانجاز " readonly>
+                        </div>
+                    </div>
+
+
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    الاسبوع الثامن :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="Date8" class="control-label col-md-3 col-sm-3 col-xs-12"> التاريخ  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Date8" type="text" class="form-control" placeholder="التاريخ    ">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Week8" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        التفاصيل  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="Week8" class="form-control" rows="3" placeholder="  التفاصيل "></textarea>
+                    </div>
+                </div>
+                    <div class="form-group">
+                        <label asp-for="percentage8" class="control-label col-md-3 col-sm-3 col-xs-12">
+                            نسبة الانجاز  <span class="required">*</span>
+                        </label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input asp-for="percentage8" class="form-control" style="width:200px" placeholder="  نسبة الانجاز " readonly>
+                        </div>
+                    </div>
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    الاسبوع التاسع :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="Date9" class="control-label col-md-3 col-sm-3 col-xs-12"> التاريخ  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Date9" type="text" class="form-control" placeholder="التاريخ    ">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Week9" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        التفاصيل  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="Week9" class="form-control" rows="3" placeholder="  التفاصيل "></textarea>
+                    </div>
+                </div>
+
+
+                    <div class="form-group">
+                        <label asp-for="percentage9" class="control-label col-md-3 col-sm-3 col-xs-12">
+                            نسبة الانجاز  <span class="required">*</span>
+                        </label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input asp-for="percentage9" class="form-control" style="width:200px" placeholder="  نسبة الانجاز " readonly>
+                        </div>
+                    </div>
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    الاسبوع العاشر :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="Date10" class="control-label col-md-3 col-sm-3 col-xs-12"> التاريخ  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Date10" type="text" class="form-control" placeholder="التاريخ    ">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Week10" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        التفاصيل  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="Week10" class="form-control" rows="3" placeholder="  التفاصيل "></textarea>
+                    </div>
+
+                </div>
+                    <div class="form-group">
+                        <label asp-for="percentage10" class="control-label col-md-3 col-sm-3 col-xs-12">
+                            نسبة الانجاز  <span class="required">*</span>
+                        </label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input asp-for="percentage10" class="form-control" style="width:200px" placeholder="  نسبة الانجاز " readonly>
+                        </div>
+                    </div>
+                @* </form> *@
+            </div>
+
+        </div>
+    </div>
+    </div>
+
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    الاسبوع الحادي عشر :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="Date11" class="control-label col-md-3 col-sm-3 col-xs-12"> التاريخ  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Date11" type="text" class="form-control" placeholder="التاريخ    ">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Week11" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        التفاصيل  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="Week11" class="form-control" rows="3" placeholder="  التفاصيل "></textarea>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="percentage11" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        نسبة الانجاز  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="percentage11" class="form-control" style="width:200px" placeholder="  نسبة الانجاز " readonly>
+                    </div>
+                </div>
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    الاسبوع الثاني عشر :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @*             <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="Date12" class="control-label col-md-3 col-sm-3 col-xs-12"> التاريخ  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Date12" type="text" class="form-control" placeholder="التاريخ    ">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Week12" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        التفاصيل  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="Week12" class="form-control" rows="3" placeholder="  التفاصيل "></textarea>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="percentage12" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        نسبة الانجاز  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="percentage12" class="form-control" style="width:200px" placeholder="  نسبة الانجاز " readonly>
+                    </div>
+                </div>
+                <div class="ln_solid"></div>
+                <div class="form-group">
+                    <div class="col-md-9 col-sm-9 col-xs-12 col-md-offset-3">
+                        <a  asp-controller="Doctor" asp-action="ProjectIndexStd" class="btn btn-primary">الغاء</a>
+
+                        <input asp-controller="Doctor" asp-action="ProjectWeeksForm" type="submit" value="حفظ" class="btn btn-success"  />
+                    </div>
+                </div>
+
+
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+  </div>
+</form>
+
+
+

@@ -1,0 +1,179 @@
+﻿@model IEnumerable<Project2023.Models.ProjectWeek>
+
+@{
+    ViewData["Title"] = "متابعة سير مشروع التخرج";
+    Layout = "~/Views/Shared/_StudentLayout.cshtml";
+}
+
+
+
+<p>
+    <a asp-action="ProjectWeeksForm" class="btn btn-primary">اضافة</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Week1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Week2)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date2)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Week3)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date3)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Week4)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date4)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Week5)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date5)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Week6)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date6)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Week7)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date7)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Week8)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date8)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Week9)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date9)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Week10)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date10)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Week11)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date11)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Week12)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date12)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Project_ProjectWeek)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Week1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Week2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Week3)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date3)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Week4)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date4)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Week5)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date5)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Week6)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date6)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Week7)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date7)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Week8)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date8)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Week9)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date9)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Week10)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date10)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Week11)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date11)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Week12)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date12)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Project_ProjectWeek.Id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ProjectId">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.ProjectId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

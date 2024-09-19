@@ -1,0 +1,56 @@
+﻿@model Project2023.Models.ApplicationUser
+
+@{
+    ViewData["Title"] = "تعديل عضو هيئة تدريس";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="DoctorId" class="control-label"></label>
+                <input asp-for="DoctorId" class="form-control" />
+                <span asp-validation-for="DoctorId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DoctorName" class="control-label"></label>
+                <input asp-for="DoctorName" class="form-control" />
+                <span asp-validation-for="DoctorName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <label asp-for="DImage" class="control-label"></label>
+                <img  src="~/Images/@Model.DImage" width ="100" height="100" />
+                <input type="hidden" asp-for="DImage" />
+                <span asp-validation-for="DImage" class="text-danger"></span>
+            </div>
+            
+           
+            <div class="form-group">
+                <label asp-for="DeptId" class="control-label"></label>
+                <select asp-for="DeptId" class="form-control" asp-items="ViewBag.DeptId"></select>
+                <span asp-validation-for="DeptId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="حفظ" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">الرجوع الى القائمة</a>
+</div>
+
+@*@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}*@

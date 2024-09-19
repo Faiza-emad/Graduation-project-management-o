@@ -1,0 +1,316 @@
+﻿@model Project2023.Models.Project
+
+
+@{
+    ViewData["Title"] = "";
+    Layout = "~/Views/Shared/_ViewLayout.cshtml";
+}
+
+
+@if (ViewBag.error == null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>المستخدم غير مخول لدخول النظام</strong>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+}
+@*StudentInfo*@
+<form method="post" class="form-horizontal form-label-left" enctype="multipart/form-data">
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+           
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Student1" class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الاول </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+
+                        <input asp-for="Student1" type="text" class="form-control" value="@ViewBag.Student1Name" placeholder="اسم الطالب الاول" readonly>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Student1" class="control-label col-md-3 col-sm-3 col-xs-12">الرقم الجامعي للطالب الأول  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Student1" type="text" class="form-control" value="@ViewBag.StudentId1" placeholder="الرقم الجامعي للطالب الأول" readonly>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Student2" class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الثاني </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Student2" type="text" class="form-control" value="@ViewBag.Student2Name" placeholder="اسم الطالب الثاني" readonly>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Student2" class="control-label col-md-3 col-sm-3 col-xs-12">الرقم الجامعي للطالب الثاني  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Student2" type="text" class="form-control" value="@ViewBag.StudentId2" placeholder="الرقم الجامعي للطالب الثاني" readonly>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Student3" class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الثالث </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Student3" type="text" class="form-control" value="@ViewBag.Student3Name" placeholder="اسم الطالب الثالث" readonly>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Student3" class="control-label col-md-3 col-sm-3 col-xs-12">الرقم الجامعي للطالب الثالث  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Student3" type="text" class="form-control" value="@ViewBag.StudentId3" placeholder="الرقم الجامعي للطالب الثالث" readonly>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Student4" class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الرابع </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Student4" type="text" class="form-control" value="@ViewBag.Student4Name" placeholder="اسم الطالب الرابع" readonly>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Student4" class="control-label col-md-3 col-sm-3 col-xs-12">الرقم الجامعي للطالب الرابع  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Student4" type="text" class="form-control" value="@ViewBag.StudentId4" placeholder="الرقم الجامعي للطالب الرابع" readonly>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DoctorId" class="control-label col-md-3 col-sm-3 col-xs-12">اسم المشرف </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="DoctorId" type="text" class="form-control" value="@ViewBag.DoctorName" readonly>
+                    </div>
+                </div>
+
+
+
+                <div class="form-group">
+                    <label asp-for="CourseId" class="control-label col-md-3 col-sm-3 col-xs-12">اسم القسم </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="CourseId" type="text" class="form-control" value="@ViewBag.CourseName" readonly>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+    @*Project Title*@
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    عنوان المشروع :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="ProjectTitle" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        عنوان المشروع  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="ProjectTitle" class="form-control" rows="3" placeholder=" عنوان المشروع " readonly></textarea>
+                    </div>
+                </div>
+
+
+
+
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+    @*Project Image/*@
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    صورة المشروع :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="PImage" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        صورة المشروع  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <img src="~/Images/@Model.PImage" style="width:120px; height:auto" />
+                        <input type="hidden" asp-for="PImage" class="form-control" />
+                        <span asp-validation-for="PImage" class="text-danger"></span>
+                    </div>
+                </div>
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+
+    @*Project Info*@
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    معلومات عن المشروع :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+
+                <div class="form-group">
+                    <label asp-for="Place" class="control-label col-md-3 col-sm-3 col-xs-12">مكان التنفيذ  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Place" type="text" class="form-control" placeholder="مكان التنفيذ " readonly>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Address" class="control-label col-md-3 col-sm-3 col-xs-12">العنوان  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Address" type="text" class="form-control" placeholder="العنوان" readonly>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Tel" class="control-label col-md-3 col-sm-3 col-xs-12">الهاتف</label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Tel" type="text" class="form-control" placeholder="الهاتف   " readonly>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Fax" class="control-label col-md-3 col-sm-3 col-xs-12">فاكس</label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Fax" type="text" class="form-control" placeholder="فاكس  " readonly>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Email" class="control-label col-md-3 col-sm-3 col-xs-12">البريد الالكتروني  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="Email" type="text" class="form-control" placeholder="البريد الالكتروني" readonly>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="WorkNature" class="control-label col-md-3 col-sm-3 col-xs-12">طبيعة العمل  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input asp-for="WorkNature" type="text" class="form-control" placeholder="طبيعة العمل " readonly>
+                    </div>
+                </div>
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+
+
+    @*Project objective*@
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    أهداف المشروع :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @*  <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="Objective" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        أهداف المشروع  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="Objective" class="form-control" rows="3" placeholder=" أهداف المشروع " readonly></textarea>
+                    </div>
+                </div>
+
+
+
+
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+
+
+    @*Project Target*@
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    الفئة  المستهدفة :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="Target" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        الفئة المستهدفة  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="Target" class="form-control" rows="3" placeholder=" الفئة المستهدفة " readonly></textarea>
+                    </div>
+                </div>
+
+
+
+
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+
+    @*Project Summary*@
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    ملخص حول المشروع :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="Summary" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        ملخص حول المشروع  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <textarea asp-for="Summary" class="form-control" rows="3" placeholder=" ملخص حول المشروع " readonly></textarea>
+                    </div>
+                </div>
+
+                @*  </form> *@
+            </div>
+        </div>
+    </div>
+
+    <div class="ln_solid"></div>
+    <div class="form-group">
+    </div>
+</form>

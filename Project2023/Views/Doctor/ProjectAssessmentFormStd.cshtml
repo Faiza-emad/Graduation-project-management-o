@@ -1,0 +1,286 @@
+﻿@model Project2023.Models.ProjectAssessment
+@{
+    ViewData["Title"] = "صفحة التقييم";
+    Layout = "~/Views/Shared/_StudentLayout.cshtml";
+}
+@*Project title*@
+<form asp-action="ProjectAssessmentForm" class="form-horizontal form-label-left">
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    عنوان المشروع :
+
+                </h2>
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="ProjectId" class="control-label col-md-3 col-sm-3 col-xs-12">
+                        عنوان المشروع  <span class="required">*</span>
+                    </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input readonly asp-for="ProjectId" class="form-control" asp-items="ViewBag.ProjectId" placeholder=" عنوان المشروع">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    @*Project workers*@
+    <div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>
+                    المنفذون :
+
+                </h2>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                @* <form class="form-horizontal form-label-left"> *@
+                <div class="form-group">
+                    <label asp-for="ProjectId" class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الاول </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input readonly asp-for="ProjectId" asp-items="ViewBag.std1" type="text" class="form-control" placeholder="اسم الطالب الأول">
+
+                </div>
+                <div class="form-group">
+                    <label asp-for="ProjectId" class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الثاني </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input readonly asp-for="ProjectId" asp-items="ViewBag.std2" type="text" class="form-control" placeholder="اسم الطالب الثاني">
+                
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ProjectId" class="control-label col-md-3 col-sm-3 col-xs-12">اسم الطالب الثالث </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                            <input readonly asp-for="ProjectId" asp-items="ViewBag.std2" type="text" class="form-control" placeholder="اسم الطالب الثالث  ">
+        
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12">اسم المشرف  </label>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                        <input type="text" class="form-control" placeholder="@TempData["name"]" readonly>
+                    </div>
+                </div>
+                @* </form> *@
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12 col-sm-6 col-xs-12">
+        <div class="x_panel">
+            <div class="x_content">
+                @*تقييم أداء الطلبة المنفذين للمشروع:*@
+                <div class="x_title">
+                    <h2>
+                        التقييم العام لمشروع التخرج:
+
+                    </h2>
+
+                    <div class="clearfix"></div>
+                </div>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>الرقم</th>
+                            <th>بند</th>
+                            <th>ممتاز </th>
+                            <th>جيد جدا</th>
+                            <th>جيد </th>
+                            <th>مقبول </th>
+                            <th>غير مقبول </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td>مستوى التزام الطلبة في اللقاءات الاسبوعية مع المشرف</td>
+                            <td><input asp-for="PQ1" type="text" class="form-control" readonly/></td>
+                            <td><input asp-for="PQ1" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ1" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ1" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ1" type="text" class="form-control" readonly /></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">2</th>
+                            <td>مستوى تقيد فريق العمل بالجدول الزمني لتنفيذ المشروع</td>
+                            <td><input asp-for="PQ2" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ2" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ2" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ2" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ2" type="text" class="form-control" readonly /></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>مستوى تحقيق المشروع للمتطلبات والمعايير المحددة</td>
+                            <td><input asp-for="PQ3" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ3" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ3" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ3" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ3" type="text" class="form-control" readonly /></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">4</th>
+                            <td>مستوى ما تحقق من المشروع نسبة الى ما خطط له مسبقا </td>
+                            <td><input asp-for="PQ4" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ4" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ4" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ4" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ4" type="text" class="form-control" readonly /></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">5</th>
+                            <td>مستوى تحقيق المشروع للأهداف التي وضع من أجلها</td>
+                            <td><input asp-for="PQ5" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ5" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ5" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ5" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ5" type="text" class="form-control" readonly /></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">6</th>
+                            <td>مستوى التوثيق لعمليات التحليل و/أو التصميم و/أوالتشغيل في المشروع</td>
+                            <td><input asp-for="PQ6" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ6" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ6" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ6" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ6" type="text" class="form-control" readonly /></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">7</th>
+                            <td>مستوى القيمة العلمية أوالتطبيقية أوالثقافية للمشروع</td>
+                            <td><input asp-for="PQ7" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ7" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ7" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ7" type="text" class="form-control" readonly /></td>
+                            <td><input asp-for="PQ7" type="text" class="form-control" readonly /></td>
+                        </tr>
+
+                    </tbody>
+                </table>
+
+                <div class="x_title">
+                    <h2>
+                        تقييم أداء الطلبة المنفذين للمشروع:
+
+                    </h2>
+
+                    <div class="clearfix"></div>
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>الرقم</th>
+                                <th>بند</th>
+                                <th>الطالب (1) </th>
+                                <th>الطالب (2)</th>
+                                <th>الطالب (3)</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">1</th>
+                                <td>مستوى الالتزام باللقاءات الاسبوعية مع المشرف</td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
+                                <td>مستوى التفاعل والمشاركة في النقاش حول المشروع</td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+
+                            </tr>
+                            <tr>
+                                <th scope="row">3</th>
+                                <td>مستوى المشاركة في تنفيذ مراحل المشروع</td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+
+                            </tr>
+                            <tr>
+                                <th scope="row">4</th>
+                                <td>مستوى المشاركة في توثيق نتاجات مراحل المشروع </td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+
+                            </tr>
+                            <tr>
+                                <th scope="row">5</th>
+                                <td>مستوى الالتزام بروح الفريق أثناء العمل</td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+
+                            </tr>
+                            <tr>
+                                <th scope="row"></th>
+                                <td>المجموع</td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    @*<div class="clearfix"></div>*@
+                    <div>
+                        <h2>
+                            علامات الطلبة المنفذين للمشروع  من قبل المشرف:
+
+                        </h2>
+                    </div>
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>الرقم</th>
+                                <th>اسم الطالب</th>
+                                <th>العلامة من (50%) </th>
+
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">1</th>
+                                    <td><input type="text" class="form-control" readonly /></td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+
+
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
+
+                                    <td><input type="text" class="form-control" readonly /></td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+
+                            </tr>
+                            <tr>
+                                <th scope="row">3</th>
+
+                                    <td><input type="text" class="form-control" readonly /></td>
+                                    <td><input type="text" class="form-control" readonly /></td>
+
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="ln_solid"></div>
+</form>
